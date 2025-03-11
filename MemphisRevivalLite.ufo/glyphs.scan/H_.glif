@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="717"/>
+  <unicode hex="0048"/>
+  <image fileName="H_.png" xScale="3.4987219430875696" yScale="3.177850160419944" xOffset="-217.4933043278493" yOffset="-97.6107603647985"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <real>0.0</real>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <real>1.0</real>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <real>1.0</real>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.0</real>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
