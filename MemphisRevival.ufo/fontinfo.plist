@@ -9,7 +9,7 @@
     <key>descender</key>
     <integer>-155</integer>
     <key>familyName</key>
-    <string>Memphis</string>
+    <string>Memphis Modern</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -61,6 +61,8 @@
     <array/>
     <key>postscriptStemSnapV</key>
     <array/>
+    <key>styleName</key>
+    <string>Regular</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>xHeight</key>
