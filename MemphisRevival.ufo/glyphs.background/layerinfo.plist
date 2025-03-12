@@ -8,6 +8,8 @@
     <dict>
       <key>com.typemytype.robofont.layerShow</key>
       <false/>
+      <key>com.typemytype.robofont.layerShowCoordinates</key>
+      <false/>
       <key>com.typemytype.robofont.layerShowFill</key>
       <false/>
       <key>com.typemytype.robofont.layerShowStroke</key>

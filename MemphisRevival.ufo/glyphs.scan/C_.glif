@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="829"/>
+  <unicode hex="0043"/>
+  <image fileName="O_.png" xOffset="1144" yOffset="925"/>
+  <guideline x="2910" y="-155" angle="0" identifier="B3yOfgTNCk"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="1000"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="14" y="701" type="line"/>
+      <point x="14" y="751" type="line"/>
+      <point x="233" y="751" type="line"/>
+      <point x="233" y="701" type="line"/>
+      <point x="140" y="701" type="line"/>
+      <point x="334" y="86" type="line"/>
+      <point x="336" y="86" type="line"/>
+      <point x="482" y="701" type="line"/>
+      <point x="389" y="701" type="line"/>
+      <point x="389" y="751" type="line"/>
+      <point x="638" y="751" type="line"/>
+      <point x="638" y="701" type="line"/>
+      <point x="545" y="701" type="line"/>
+      <point x="691" y="86" type="line"/>
+      <point x="693" y="86" type="line"/>
+      <point x="889" y="701" type="line"/>
+      <point x="794" y="701" type="line"/>
+      <point x="794" y="751" type="line"/>
+      <point x="1014" y="751" type="line"/>
+      <point x="1014" y="701" type="line"/>
+      <point x="941" y="701" type="line"/>
+      <point x="714" y="0" type="line"/>
+      <point x="661" y="0" type="line"/>
+      <point x="512" y="627" type="line"/>
+      <point x="510" y="627" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="312" y="0" type="line"/>
+      <point x="86" y="701" type="line"/>
+      <point x="14" y="701" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+RTG[ ]	/* RoundToGrid */
+SVTCA[1]	/* SetFPVectorToAxis */
+NPUSHB[ ]	/* 2 values pushed */
+19 1
+NPUSHB[ ]	/* 3 values pushed */
+1 28 2
+NPUSHW[ ]	/* 4 values pushed */
+972 18 0 0
+CALL[ ]	/* CallFunction */
+IUP[1]	/* InterpolateUntPts */
+RTG[ ]	/* RoundToGrid */
+SVTCA[0]	/* SetFPVectorToAxis */
+NPUSHB[ ]	/* 6 values pushed */
+2 9 10 17 18 5
+NPUSHB[ ]	/* 13 values pushed */
+3 4 7 8 11 12 15 16 19 20 27 28 12
+NPUSHW[ ]	/* 4 values pushed */
+46 1 0 0
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 4 values pushed */
+6 13 14 3
+NPUSHB[ ]	/* 4 values pushed */
+22 25 26 3
+NPUSHW[ ]	/* 4 values pushed */
+83 5 21 0
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+1
+PUSHB[ ]	/* 1 value pushed */
+1
+MIAP[1]	/* MoveIndirectAbsPt */
+NPUSHB[ ]	/* 19 values pushed */
+0 2 3 4 7 8 9 10 11 12 15 16 17 18 19 20 27 28 18
+PUSHB[ ]	/* 1 value pushed */
+1
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHW[ ]	/* 1 value pushed */
+21
+PUSHB[ ]	/* 1 value pushed */
+4
+MIAP[1]	/* MoveIndirectAbsPt */
+NPUSHB[ ]	/* 4 values pushed */
+22 25 26 3
+PUSHB[ ]	/* 1 value pushed */
+1
+LOOPCALL[ ]	/* LoopAndCallFunction */
+IUP[0]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>a0ce55e797c549e1e7fcf187c626b68b1ab7adf24172dbc3946f4b4f59499417878335eaa2b56f6e2620b84bdcf8a50aa41dd705e2ebf877c1d779bd5bc775b4</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

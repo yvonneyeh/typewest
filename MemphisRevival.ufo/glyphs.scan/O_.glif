@@ -2,7 +2,7 @@
 <glyph name="O" format="2">
   <advance width="829"/>
   <unicode hex="004F"/>
-  <image fileName="S_creenshot 2025-02-10 at 8.09.56 P_M_.png" xScale="6.3567410056134275" xyScale="-0.09986653997086695" yxScale="0.09986653997086695" yScale="6.3567410056134275" xOffset="114.24242653888632" yOffset="-229.49807366819164"/>
+  <image fileName="O_.png" xOffset="1144" yOffset="925"/>
   <guideline x="2910" y="-155" angle="0" identifier="B3yOfgTNCk"/>
   <outline>
   </outline>
