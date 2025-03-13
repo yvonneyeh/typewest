@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="R" format="2">
-  <advance width="642"/>
-  <unicode hex="0052"/>
+<glyph name="zero" format="2">
+  <advance width="829"/>
+  <unicode hex="0030"/>
   <outline>
   </outline>
   <lib>

@@ -50,5 +50,7 @@
     <string>n.glif</string>
     <key>o</key>
     <string>o.glif</string>
+    <key>zero</key>
+    <string>zero.glif</string>
   </dict>
 </plist>
