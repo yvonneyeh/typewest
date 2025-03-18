@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="714"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="14" y="750" type="line"/>
+      <point x="257" y="750" type="line"/>
+      <point x="257" y="700" type="line"/>
+      <point x="162" y="700" type="line"/>
+      <point x="351" y="380" type="line"/>
+      <point x="354" y="380" type="line"/>
+      <point x="552" y="700" type="line"/>
+      <point x="458" y="700" type="line"/>
+      <point x="458" y="750" type="line"/>
+      <point x="700" y="750" type="line"/>
+      <point x="700" y="700" type="line"/>
+      <point x="612" y="700" type="line"/>
+      <point x="381" y="326" type="line"/>
+      <point x="381" y="50" type="line"/>
+      <point x="469" y="50" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="236" y="50" type="line"/>
+      <point x="324" y="50" type="line"/>
+      <point x="324" y="326" type="line"/>
+      <point x="102" y="700" type="line"/>
+      <point x="14" y="700" type="line"/>
+      <point x="14" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+RTG[ ]	/* RoundToGrid */
+SVTCA[1]	/* SetFPVectorToAxis */
+NPUSHB[ ]	/* 2 values pushed */
+13 1
+NPUSHB[ ]	/* 2 values pushed */
+19 1
+NPUSHW[ ]	/* 4 values pushed */
+54 12 18 0
+CALL[ ]	/* CallFunction */
+IUP[1]	/* InterpolateUntPts */
+RTG[ ]	/* RoundToGrid */
+SVTCA[0]	/* SetFPVectorToAxis */
+NPUSHB[ ]	/* 5 values pushed */
+1 8 9 22 4
+NPUSHB[ ]	/* 8 values pushed */
+3 6 7 10 11 20 21 7
+NPUSHW[ ]	/* 4 values pushed */
+46 0 2 0
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 4 values pushed */
+14 17 18 3
+NPUSHB[ ]	/* 2 values pushed */
+16 1
+NPUSHW[ ]	/* 4 values pushed */
+46 13 15 0
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+0
+PUSHB[ ]	/* 1 value pushed */
+1
+MIAP[1]	/* MoveIndirectAbsPt */
+NPUSHB[ ]	/* 13 values pushed */
+1 2 3 6 7 8 9 10 11 20 21 22 12
+PUSHB[ ]	/* 1 value pushed */
+1
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHW[ ]	/* 1 value pushed */
+15
+PUSHB[ ]	/* 1 value pushed */
+4
+MIAP[1]	/* MoveIndirectAbsPt */
+NPUSHB[ ]	/* 6 values pushed */
+13 14 16 17 18 5
+PUSHB[ ]	/* 1 value pushed */
+1
+LOOPCALL[ ]	/* LoopAndCallFunction */
+IUP[0]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>2765cee266874c8623920f3c8c43d8b19b1d64b235b370dda747c2cf38ca6cbe75aa27cea1d3cf6d518621e311aaed1ce78569c052cffe1c87428273b5a74e11</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

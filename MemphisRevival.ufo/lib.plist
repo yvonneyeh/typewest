@@ -5,6 +5,8 @@
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
+        <key>allowPseudoUnicode</key>
+        <integer>0</integer>
         <key>ascending</key>
         <string>Latin-1</string>
         <key>type</key>
@@ -244,8 +246,8 @@
       <string>quoteleft</string>
       <string>quoteright</string>
       <string>minus</string>
-      <string>emdash</string>
       <string>endash</string>
+      <string>emdash</string>
       <string>dblquoteleft</string>
       <string>dblquoteright</string>
     </array>
