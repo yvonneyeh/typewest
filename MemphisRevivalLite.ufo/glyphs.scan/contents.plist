@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>C</key>
+    <string>C_.glif</string>
+    <key>G</key>
+    <string>G_.glif</string>
     <key>H</key>
     <string>H_.glif</string>
     <key>O</key>
@@ -14,5 +18,7 @@
     <string>n.glif</string>
     <key>o</key>
     <string>o.glif</string>
+    <key>zero</key>
+    <string>zero.glif</string>
   </dict>
 </plist>

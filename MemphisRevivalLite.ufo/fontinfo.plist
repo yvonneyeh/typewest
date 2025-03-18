@@ -20,9 +20,9 @@
         <key>name</key>
         <string>X Height</string>
         <key>x</key>
-        <integer>1820</integer>
+        <integer>532</integer>
         <key>y</key>
-        <integer>477</integer>
+        <integer>475</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -62,7 +62,7 @@
     <key>postscriptStemSnapV</key>
     <array/>
     <key>styleName</key>
-    <string>Lite</string>
+    <string>Regular</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>xHeight</key>

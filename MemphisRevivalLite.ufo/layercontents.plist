@@ -18,5 +18,9 @@
       <string>scan</string>
       <string>glyphs.scan</string>
     </array>
+    <array>
+      <string>A</string>
+      <string>glyphs.A_</string>
+    </array>
   </array>
 </plist>

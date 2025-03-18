@@ -1,87 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="791"/>
+  <advance width="778"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="118" y="50" type="line"/>
-      <point x="43" y="50" type="line"/>
-      <point x="43" y="0" type="line"/>
-      <point x="245" y="0" type="line"/>
-      <point x="245" y="50" type="line"/>
-      <point x="170" y="50" type="line"/>
-      <point x="411" y="749" type="line"/>
-      <point x="362" y="750" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="22" y="48" type="line"/>
+      <point x="111" y="48" type="line"/>
+      <point x="335" y="702" type="line"/>
+      <point x="265" y="702" type="line"/>
+      <point x="265" y="750" type="line"/>
+      <point x="510" y="750" type="line"/>
+      <point x="510" y="702" type="line"/>
+      <point x="441" y="702" type="line"/>
+      <point x="664" y="48" type="line"/>
+      <point x="756" y="48" type="line"/>
+      <point x="756" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="48" type="line"/>
+      <point x="606" y="48" type="line"/>
+      <point x="542" y="237" type="line"/>
+      <point x="231" y="237" type="line"/>
+      <point x="167" y="48" type="line"/>
+      <point x="256" y="48" type="line"/>
+      <point x="256" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="361" y="750" type="line"/>
-      <point x="286" y="750" type="line"/>
-      <point x="286" y="700" type="line"/>
-      <point x="488" y="700" type="line"/>
-      <point x="488" y="750" type="line"/>
-      <point x="413" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="361" y="750" type="line"/>
-      <point x="286" y="750" type="line"/>
-      <point x="286" y="700" type="line"/>
-      <point x="488" y="700" type="line"/>
-      <point x="488" y="750" type="line"/>
-      <point x="413" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="361" y="750" type="line"/>
-      <point x="286" y="750" type="line"/>
-      <point x="286" y="700" type="line"/>
-      <point x="488" y="700" type="line"/>
-      <point x="488" y="750" type="line"/>
-      <point x="413" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="673" y="50" type="line"/>
-      <point x="429" y="750" type="line"/>
-      <point x="380" y="749" type="line"/>
-      <point x="621" y="50" type="line"/>
-      <point x="546" y="50" type="line"/>
-      <point x="546" y="0" type="line"/>
-      <point x="748" y="0" type="line"/>
-      <point x="748" y="50" type="line"/>
-    </contour>
-    <contour>
-      <point x="430" y="750" type="line"/>
-      <point x="378" y="750" type="line"/>
-      <point x="303" y="750" type="line"/>
-      <point x="303" y="700" type="line"/>
-      <point x="505" y="700" type="line"/>
-      <point x="505" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="430" y="750" type="line"/>
-      <point x="378" y="750" type="line"/>
-      <point x="303" y="750" type="line"/>
-      <point x="303" y="700" type="line"/>
-      <point x="505" y="700" type="line"/>
-      <point x="505" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="430" y="750" type="line"/>
-      <point x="378" y="750" type="line"/>
-      <point x="303" y="750" type="line"/>
-      <point x="303" y="700" type="line"/>
-      <point x="505" y="700" type="line"/>
-      <point x="505" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="208" y="295" type="line"/>
-      <point x="208" y="243" type="line"/>
-      <point x="585" y="243" type="line"/>
-      <point x="585" y="295" type="line"/>
+      <point x="248" y="285" type="line"/>
+      <point x="525" y="285" type="line"/>
+      <point x="388" y="688" type="line"/>
+      <point x="386" y="688" type="line"/>
+      <point x="248" y="285" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>
