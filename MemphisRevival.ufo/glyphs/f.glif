@@ -4,12 +4,6 @@
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="11" y="612" type="move"/>
-    </contour>
-    <contour>
-      <point x="11" y="612" type="move"/>
-    </contour>
-    <contour>
       <point x="157" y="596" type="curve"/>
       <point x="157" y="596"/>
       <point x="157" y="596"/>
@@ -66,20 +60,20 @@
       <point x="157" y="414" type="line"/>
     </contour>
     <contour>
-      <point x="151" y="60" type="move"/>
-      <point x="82" y="60" type="line"/>
+      <point x="151" y="58" type="move"/>
+      <point x="82" y="58" type="line"/>
       <point x="82" y="0" type="line"/>
       <point x="293" y="0" type="line"/>
-      <point x="293" y="60" type="line"/>
-      <point x="219" y="60" type="line"/>
+      <point x="293" y="58" type="line"/>
+      <point x="219" y="58" type="line"/>
     </contour>
     <contour>
-      <point x="151" y="60" type="move"/>
-      <point x="82" y="60" type="line"/>
+      <point x="151" y="58" type="move"/>
+      <point x="82" y="58" type="line"/>
       <point x="82" y="0" type="line"/>
       <point x="293" y="0" type="line"/>
-      <point x="293" y="60" type="line"/>
-      <point x="219" y="60" type="line"/>
+      <point x="293" y="58" type="line"/>
+      <point x="219" y="58" type="line"/>
     </contour>
   </outline>
   <lib>
