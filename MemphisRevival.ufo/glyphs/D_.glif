@@ -32,8 +32,8 @@
       <point x="14" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="158" y="700" type="line"/>
-      <point x="158" y="50" type="line"/>
+      <point x="163" y="700" type="line"/>
+      <point x="163" y="50" type="line"/>
       <point x="339" y="50" type="line"/>
       <point x="453" y="50"/>
       <point x="636" y="236"/>
@@ -41,11 +41,13 @@
       <point x="636" y="520"/>
       <point x="460" y="695"/>
       <point x="328" y="699" type="qcurve"/>
-      <point x="158" y="700" type="line"/>
+      <point x="163" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
       <key>public.truetype.instructions</key>
       <dict>
         <key>assembly</key>
