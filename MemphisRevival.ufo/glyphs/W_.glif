@@ -6,22 +6,22 @@
     <contour>
       <point x="9" y="701" type="line"/>
       <point x="9" y="751" type="line"/>
-      <point x="233" y="751" type="line"/>
-      <point x="233" y="701" type="line"/>
+      <point x="220" y="751" type="line"/>
+      <point x="220" y="701" type="line"/>
       <point x="140" y="701" type="line"/>
       <point x="334" y="96" type="line"/>
       <point x="336" y="96" type="line"/>
       <point x="482" y="701" type="line"/>
-      <point x="389" y="701" type="line"/>
-      <point x="389" y="751" type="line"/>
-      <point x="638" y="751" type="line"/>
-      <point x="638" y="701" type="line"/>
+      <point x="402" y="701" type="line"/>
+      <point x="402" y="751" type="line"/>
+      <point x="625" y="751" type="line"/>
+      <point x="625" y="701" type="line"/>
       <point x="545" y="701" type="line"/>
       <point x="691" y="96" type="line"/>
       <point x="693" y="96" type="line"/>
       <point x="889" y="701" type="line"/>
-      <point x="794" y="701" type="line"/>
-      <point x="794" y="751" type="line"/>
+      <point x="809" y="701" type="line"/>
+      <point x="809" y="751" type="line"/>
       <point x="1018" y="751" type="line"/>
       <point x="1018" y="701" type="line"/>
       <point x="941" y="701" type="line"/>
