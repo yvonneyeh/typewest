@@ -4,25 +4,27 @@
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="411" y="418" type="line"/>
-      <point x="92" y="57" type="line"/>
-      <point x="364" y="57" type="line"/>
+      <point x="411" y="420" type="line"/>
+      <point x="89" y="55" type="line"/>
+      <point x="364" y="55" type="line"/>
       <point x="364" y="136" type="line"/>
       <point x="416" y="136" type="line"/>
       <point x="416" y="0" type="line"/>
       <point x="14" y="0" type="line"/>
-      <point x="14" y="57" type="line"/>
-      <point x="332" y="418" type="line"/>
-      <point x="74" y="418" type="line"/>
+      <point x="14" y="54" type="line"/>
+      <point x="330" y="420" type="line"/>
+      <point x="74" y="420" type="line"/>
       <point x="74" y="344" type="line"/>
       <point x="21" y="344" type="line"/>
       <point x="21" y="475" type="line"/>
       <point x="411" y="475" type="line"/>
-      <point x="411" y="418" type="line"/>
+      <point x="411" y="420" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
       <key>public.truetype.instructions</key>
       <dict>
         <key>assembly</key>
