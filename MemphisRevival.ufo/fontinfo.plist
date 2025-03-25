@@ -5,9 +5,9 @@
     <key>ascender</key>
     <integer>750</integer>
     <key>capHeight</key>
-    <integer>750</integer>
+    <integer>700</integer>
     <key>descender</key>
-    <integer>-215</integer>
+    <integer>-200</integer>
     <key>familyName</key>
     <string>Memphis Modern</string>
     <key>guidelines</key>
