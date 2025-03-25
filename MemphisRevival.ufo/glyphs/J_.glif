@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
-  <advance width="340"/>
+  <advance width="392"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="4" y="-56" type="line"/>
-      <point x="139" y="-56"/>
-      <point x="249" y="1"/>
-      <point x="249" y="178" type="curve"/>
-      <point x="249" y="698" type="line"/>
-      <point x="326" y="698" type="line"/>
-      <point x="326" y="750" type="line"/>
-      <point x="116" y="750" type="line"/>
-      <point x="116" y="698" type="line"/>
-      <point x="193" y="698" type="line"/>
-      <point x="193" y="160" type="line"/>
-      <point x="193" y="37"/>
-      <point x="97" y="-2"/>
-      <point x="4" y="-4" type="curve"/>
+      <point x="31" y="-56" type="line"/>
+      <point x="166" y="-56"/>
+      <point x="276" y="1"/>
+      <point x="276" y="178" type="curve"/>
+      <point x="276" y="698" type="line"/>
+      <point x="353" y="698" type="line"/>
+      <point x="353" y="750" type="line"/>
+      <point x="143" y="750" type="line"/>
+      <point x="143" y="698" type="line"/>
+      <point x="220" y="698" type="line"/>
+      <point x="220" y="160" type="line"/>
+      <point x="220" y="37"/>
+      <point x="124" y="-2"/>
+      <point x="31" y="-4" type="curve"/>
     </contour>
   </outline>
 </glyph>

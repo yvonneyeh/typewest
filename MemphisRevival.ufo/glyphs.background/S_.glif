@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="S" format="2">
-  <advance width="588"/>
+  <advance width="658"/>
   <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="15" y="245" type="move"/>
+      <point x="49" y="245" type="move"/>
     </contour>
   </outline>
 </glyph>
