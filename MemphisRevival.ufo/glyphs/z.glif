@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z" format="2">
-  <advance width="430"/>
+  <advance width="481"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="411" y="420" type="line"/>
-      <point x="89" y="55" type="line"/>
-      <point x="364" y="55" type="line"/>
-      <point x="364" y="136" type="line"/>
-      <point x="416" y="136" type="line"/>
-      <point x="416" y="0" type="line"/>
-      <point x="14" y="0" type="line"/>
-      <point x="14" y="54" type="line"/>
-      <point x="330" y="420" type="line"/>
-      <point x="74" y="420" type="line"/>
-      <point x="74" y="344" type="line"/>
-      <point x="21" y="344" type="line"/>
-      <point x="21" y="475" type="line"/>
-      <point x="411" y="475" type="line"/>
-      <point x="411" y="420" type="line"/>
+      <point x="437" y="420" type="line"/>
+      <point x="115" y="55" type="line"/>
+      <point x="390" y="55" type="line"/>
+      <point x="390" y="136" type="line"/>
+      <point x="442" y="136" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="54" type="line"/>
+      <point x="356" y="420" type="line"/>
+      <point x="100" y="420" type="line"/>
+      <point x="100" y="344" type="line"/>
+      <point x="47" y="344" type="line"/>
+      <point x="47" y="475" type="line"/>
+      <point x="437" y="475" type="line"/>
+      <point x="437" y="420" type="line"/>
     </contour>
   </outline>
   <lib>

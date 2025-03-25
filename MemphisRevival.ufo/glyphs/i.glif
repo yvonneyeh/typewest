@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="299"/>
+  <advance width="297"/>
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="41" y="477" type="line"/>
-      <point x="41" y="425" type="line"/>
-      <point x="118" y="425" type="line"/>
-      <point x="118" y="50" type="line"/>
-      <point x="41" y="50" type="line"/>
-      <point x="41" y="0" type="line"/>
-      <point x="255" y="0" type="line"/>
-      <point x="255" y="50" type="line"/>
-      <point x="178" y="50" type="line"/>
-      <point x="178" y="477" type="line"/>
-      <point x="153" y="477"/>
-      <point x="116" y="477"/>
-      <point x="116" y="477" type="curve"/>
+      <point x="48" y="477" type="line"/>
+      <point x="48" y="425" type="line"/>
+      <point x="125" y="425" type="line"/>
+      <point x="125" y="50" type="line"/>
+      <point x="48" y="50" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="262" y="50" type="line"/>
+      <point x="185" y="50" type="line"/>
+      <point x="185" y="477" type="line"/>
+      <point x="160" y="477"/>
+      <point x="123" y="477"/>
+      <point x="123" y="477" type="curve"/>
     </contour>
     <contour>
-      <point x="175" y="425" type="move"/>
-      <point x="177" y="477" type="line"/>
+      <point x="182" y="425" type="move"/>
+      <point x="184" y="477" type="line"/>
     </contour>
     <contour>
-      <point x="117" y="750" type="move"/>
-      <point x="178" y="750" type="line"/>
-      <point x="178" y="626" type="line"/>
-      <point x="116" y="626" type="line"/>
+      <point x="124" y="750" type="move"/>
+      <point x="185" y="750" type="line"/>
+      <point x="185" y="626" type="line"/>
+      <point x="123" y="626" type="line"/>
     </contour>
   </outline>
 </glyph>
