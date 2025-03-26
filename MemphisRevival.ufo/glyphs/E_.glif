@@ -2,13 +2,14 @@
 <glyph name="E" format="2">
   <advance width="623"/>
   <unicode hex="0045"/>
+  <image fileName="E_.png" xScale="5.313310986496235" xyScale="-0.0927441882531036" yxScale="0.09274418825310365" yScale="5.313310986496236" xOffset="-40.696379740119895" yOffset="-139.79360483163853"/>
   <outline>
     <contour>
       <point x="188" y="427" type="line"/>
       <point x="188" y="700" type="line"/>
       <point x="504" y="700" type="line"/>
-      <point x="504" y="598" type="line"/>
-      <point x="554" y="598" type="line"/>
+      <point x="504" y="585" type="line"/>
+      <point x="554" y="585" type="line"/>
       <point x="554" y="750" type="line"/>
       <point x="52" y="750" type="line"/>
       <point x="52" y="700" type="line"/>
@@ -19,8 +20,8 @@
       <point x="344" y="0" type="line"/>
       <point x="344" y="1" type="line"/>
       <point x="554" y="1" type="line"/>
-      <point x="554" y="153" type="line"/>
-      <point x="504" y="153" type="line"/>
+      <point x="554" y="166" type="line"/>
+      <point x="504" y="166" type="line"/>
       <point x="504" y="50" type="line"/>
       <point x="188" y="50" type="line"/>
       <point x="188" y="375" type="line"/>
