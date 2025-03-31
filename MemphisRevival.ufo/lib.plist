@@ -259,6 +259,10 @@
       <string>ogonek.case</string>
       <string>tilde.case</string>
       <string>hungarumlaut.case</string>
+      <string>Abreve</string>
+      <string>Amacron</string>
+      <string>Aogonek</string>
+      <string>Aringacute</string>
     </array>
   </dict>
 </plist>
