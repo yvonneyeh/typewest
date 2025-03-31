@@ -48,6 +48,30 @@
         <key>y</key>
         <integer>781</integer>
       </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>eFTUQAdwaQ</string>
+        <key>name</key>
+        <string>Accent</string>
+        <key>x</key>
+        <integer>720</integer>
+        <key>y</key>
+        <integer>650</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>Oalm7AN4Al</string>
+        <key>name</key>
+        <string>Accent</string>
+        <key>x</key>
+        <integer>700</integer>
+        <key>y</key>
+        <integer>500</integer>
+      </dict>
     </array>
     <key>postscriptBlueValues</key>
     <array/>
