@@ -360,12 +360,34 @@
     <string>numbersign.glif</string>
     <key>o</key>
     <string>o.glif</string>
+    <key>oacute</key>
+    <string>oacute.glif</string>
+    <key>obreve</key>
+    <string>obreve.glif</string>
+    <key>ocircumflex</key>
+    <string>ocircumflex.glif</string>
+    <key>odieresis</key>
+    <string>odieresis.glif</string>
     <key>ogonek</key>
     <string>ogonek.glif</string>
     <key>ogonek.case</key>
     <string>ogonek.case.glif</string>
+    <key>ograve</key>
+    <string>ograve.glif</string>
+    <key>ohungarumlaut</key>
+    <string>ohungarumlaut.glif</string>
+    <key>omacron</key>
+    <string>omacron.glif</string>
     <key>one</key>
     <string>one.glif</string>
+    <key>oogonek</key>
+    <string>oogonek.glif</string>
+    <key>oring</key>
+    <string>oring.glif</string>
+    <key>oslash</key>
+    <string>oslash.glif</string>
+    <key>otilde</key>
+    <string>otilde.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>parenleft</key>
@@ -426,8 +448,28 @@
     <string>two.glif</string>
     <key>u</key>
     <string>u.glif</string>
+    <key>uacute</key>
+    <string>uacute.glif</string>
+    <key>ubreve</key>
+    <string>ubreve.glif</string>
+    <key>ucircumflex</key>
+    <string>ucircumflex.glif</string>
+    <key>udieresis</key>
+    <string>udieresis.glif</string>
+    <key>ugrave</key>
+    <string>ugrave.glif</string>
+    <key>uhungarumlaut</key>
+    <string>uhungarumlaut.glif</string>
+    <key>umacron</key>
+    <string>umacron.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
+    <key>uogonek</key>
+    <string>uogonek.glif</string>
+    <key>uring</key>
+    <string>uring.glif</string>
+    <key>utilde</key>
+    <string>utilde.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>w</key>
@@ -436,8 +478,16 @@
     <string>x.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>yacute</key>
+    <string>yacute.glif</string>
+    <key>ycircumflex</key>
+    <string>ycircumflex.glif</string>
+    <key>ydieresis</key>
+    <string>ydieresis.glif</string>
     <key>yen</key>
     <string>yen.glif</string>
+    <key>ymacron</key>
+    <string>ymacron.glif</string>
     <key>z</key>
     <string>z.glif</string>
     <key>zero</key>

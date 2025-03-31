@@ -323,6 +323,20 @@
       <string>Imacron</string>
       <string>Iogonek</string>
       <string>Itilde</string>
+      <string>obreve</string>
+      <string>ohungarumlaut</string>
+      <string>omacron</string>
+      <string>oogonek</string>
+      <string>oring</string>
+      <string>oslashacute</string>
+      <string>ubreve</string>
+      <string>uhungarumlaut</string>
+      <string>umacron</string>
+      <string>uogonek</string>
+      <string>uring</string>
+      <string>utilde</string>
+      <string>ycircumflex</string>
+      <string>ymacron</string>
     </array>
   </dict>
 </plist>
