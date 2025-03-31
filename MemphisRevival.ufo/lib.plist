@@ -251,6 +251,14 @@
       <string>dblquoteleft</string>
       <string>dblquoteright</string>
       <string>Q.alt</string>
+      <string>circumflex.case</string>
+      <string>caron.case</string>
+      <string>breve.case</string>
+      <string>dotaccent.case</string>
+      <string>ring.case</string>
+      <string>ogonek.case</string>
+      <string>tilde.case</string>
+      <string>hungarumlaut.case</string>
     </array>
   </dict>
 </plist>
