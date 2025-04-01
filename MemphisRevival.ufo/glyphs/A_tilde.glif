@@ -6,10 +6,4 @@
     <component base="A"/>
     <component base="tilde" xOffset="245" yOffset="183"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,1,0.4,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -6,10 +6,4 @@
     <component base="D"/>
     <component base="macron" xOffset="33" yOffset="-199"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,1,0.4,1</string>
-    </dict>
-  </lib>
 </glyph>

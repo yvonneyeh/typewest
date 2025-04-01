@@ -6,10 +6,4 @@
     <component base="I"/>
     <component base="circumflex" xOffset="19" yOffset="33"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,1,0.4,1</string>
-    </dict>
-  </lib>
 </glyph>

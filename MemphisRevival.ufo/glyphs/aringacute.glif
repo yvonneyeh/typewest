@@ -7,10 +7,4 @@
     <component base="ring" xOffset="192" yOffset="-2"/>
     <component base="acute" xOffset="160" yOffset="221"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,1,0.4,1</string>
-    </dict>
-  </lib>
 </glyph>

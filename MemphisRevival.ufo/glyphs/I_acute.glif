@@ -6,10 +6,4 @@
     <component base="I"/>
     <component base="acute" xOffset="-12" yOffset="271"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,1,0.4,1</string>
-    </dict>
-  </lib>
 </glyph>

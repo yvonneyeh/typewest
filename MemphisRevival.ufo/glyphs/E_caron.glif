@@ -6,10 +6,4 @@
     <component base="E"/>
     <component base="caron" xOffset="163" yOffset="222"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,1,0.4,1</string>
-    </dict>
-  </lib>
 </glyph>

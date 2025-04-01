@@ -6,10 +6,4 @@
     <component base="e"/>
     <component base="dieresis" xOffset="138" yOffset="27"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,1,0.4,1</string>
-    </dict>
-  </lib>
 </glyph>
