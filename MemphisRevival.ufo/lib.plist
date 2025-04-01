@@ -20,9 +20,13 @@
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
-    <false/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
     <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.layerName</key>
+    <string>new</string>
+    <key>com.typemytype.robofont.compileSettings.path</key>
+    <string>/Users/Yvonne/Desktop/MemphisRevival.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.3mx2OO5rba</key>
