@@ -244,6 +244,10 @@
     <string>dotaccent.glif</string>
     <key>dotaccent.case</key>
     <string>dotaccent.case.glif</string>
+    <key>dotlessi</key>
+    <string>dotlessi.glif</string>
+    <key>dotlessj</key>
+    <string>dotlessj.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>eacute</key>

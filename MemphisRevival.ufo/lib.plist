@@ -341,6 +341,7 @@
       <string>utilde</string>
       <string>ycircumflex</string>
       <string>ymacron</string>
+      <string>dotlessj</string>
     </array>
   </dict>
 </plist>
