@@ -560,6 +560,8 @@
     <string>t.glif</string>
     <key>tcaron</key>
     <string>tcaron.glif</string>
+    <key>thorn</key>
+    <string>thorn.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>tilde</key>
