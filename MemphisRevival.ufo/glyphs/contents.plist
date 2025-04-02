@@ -66,6 +66,8 @@
     <string>E_macron.glif</string>
     <key>Eogonek</key>
     <string>E_ogonek.glif</string>
+    <key>Eth</key>
+    <string>E_th.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>G</key>
@@ -262,6 +264,8 @@
     <string>breve.glif</string>
     <key>breve.case</key>
     <string>breve.case.glif</string>
+    <key>brokenbar</key>
+    <string>brokenbar.glif</string>
     <key>c</key>
     <string>c.glif</string>
     <key>cacute</key>
@@ -444,6 +448,8 @@
     <string>macron.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
+    <key>mu</key>
+    <string>mu.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
     <key>n</key>
@@ -484,6 +490,8 @@
     <string>omacron.glif</string>
     <key>one</key>
     <string>one.glif</string>
+    <key>onesuperior</key>
+    <string>onesuperior.glif</string>
     <key>oogonek</key>
     <string>oogonek.glif</string>
     <key>ordfeminine</key>
@@ -546,6 +554,8 @@
     <string>sacute.glif</string>
     <key>scaron</key>
     <string>scaron.glif</string>
+    <key>section</key>
+    <string>section.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
     <key>seven</key>
@@ -564,14 +574,16 @@
     <string>thorn.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>threesuperior</key>
+    <string>threesuperior.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
-    <key>tilde.case</key>
-    <string>tilde.case.glif</string>
     <key>trademark</key>
     <string>trademark.glif</string>
     <key>two</key>
     <string>two.glif</string>
+    <key>twosuperior</key>
+    <string>twosuperior.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>uacute</key>
