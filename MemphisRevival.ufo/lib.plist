@@ -417,6 +417,8 @@
       <string>euro</string>
       <string>equal==</string>
       <string>number</string>
+      <string>circle</string>
+      <string>a.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
