@@ -418,6 +418,9 @@
       <string>number</string>
       <string>circle</string>
       <string>a.alt</string>
+      <string>germandbls.alt</string>
+      <string>fraction</string>
+      <string>Oslashacute</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

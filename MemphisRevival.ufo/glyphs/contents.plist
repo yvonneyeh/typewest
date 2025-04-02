@@ -224,6 +224,8 @@
     <string>adieresis.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
+    <key>aeacute</key>
+    <string>aeacute.glif</string>
     <key>agrave</key>
     <string>agrave.glif</string>
     <key>amacron</key>
@@ -290,8 +292,6 @@
     <string>circle.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
-    <key>circumflex.case</key>
-    <string>circumflex.case.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
@@ -372,6 +372,8 @@
     <string>five.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>fraction</key>
+    <string>fraction.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>gacute</key>
@@ -386,6 +388,8 @@
     <string>gdotaccent.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>germandbls.alt</key>
+    <string>germandbls.alt.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>greater</key>
@@ -490,6 +494,8 @@
     <string>omacron.glif</string>
     <key>one</key>
     <string>one.glif</string>
+    <key>onehalf</key>
+    <string>onehalf.glif</string>
     <key>onesuperior</key>
     <string>onesuperior.glif</string>
     <key>oogonek</key>
@@ -502,6 +508,8 @@
     <string>oring.glif</string>
     <key>oslash</key>
     <string>oslash.glif</string>
+    <key>oslashacute</key>
+    <string>oslashacute.glif</string>
     <key>otilde</key>
     <string>otilde.glif</string>
     <key>p</key>
