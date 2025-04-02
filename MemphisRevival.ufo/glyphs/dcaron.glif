@@ -3,7 +3,26 @@
   <advance width="640"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="d"/>
-    <component base="commaaccent" xOffset="613.013986013986" yOffset="750"/>
+    <component base="d" identifier="6B9A151C"/>
+    <component base="commaaccent" xOffset="613" yOffset="750" identifier="DF9AA716"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6B9A151C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DF9AA716</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

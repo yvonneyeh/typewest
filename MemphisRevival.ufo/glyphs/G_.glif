@@ -2,7 +2,7 @@
 <glyph name="G" format="2">
   <advance width="919"/>
   <unicode hex="0047"/>
-  <guideline x="2910" y="-155" angle="0" identifier="uaERWTL1pR"/>
+  <guideline x="2910" y="-155" angle="0"/>
   <outline>
     <contour>
       <point x="713" y="0" type="line"/>
@@ -61,7 +61,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.7059,1,1,1</string>
+      <string>0.71,1,1,1</string>
     </dict>
   </lib>
 </glyph>

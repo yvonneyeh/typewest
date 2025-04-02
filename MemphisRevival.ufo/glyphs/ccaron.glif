@@ -3,7 +3,26 @@
   <advance width="547"/>
   <unicode hex="010D"/>
   <outline>
-    <component base="c"/>
-    <component base="caron" xOffset="134" yOffset="-49"/>
+    <component base="c" identifier="A61F9320"/>
+    <component base="caron" xOffset="134" yOffset="-49" identifier="C1F688C2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A61F9320</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C1F688C2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

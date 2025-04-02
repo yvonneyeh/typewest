@@ -3,7 +3,26 @@
   <advance width="297"/>
   <unicode hex="00ED"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="acute" xOffset="-15" yOffset="-33"/>
+    <component base="dotlessi" identifier="E72A23AD"/>
+    <component base="acute" xOffset="-15" yOffset="-33" identifier="4627AD3C"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4627AD3C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E72A23AD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

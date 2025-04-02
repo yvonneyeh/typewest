@@ -3,7 +3,26 @@
   <advance width="584"/>
   <unicode hex="00F3"/>
   <outline>
-    <component base="o"/>
-    <component base="acute" xOffset="122" yOffset="2"/>
+    <component base="o" identifier="C0C0BECE"/>
+    <component base="acute" xOffset="122" yOffset="2" identifier="0BFB1BDD"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0BFB1BDD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C0C0BECE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q.alt" format="2">
   <advance width="796"/>
-  <guideline x="2910" y="-155" angle="0" identifier="9cH0X6jD9I"/>
+  <guideline x="2910" y="-155" angle="0"/>
   <outline>
     <contour>
       <point x="34" y="376" type="line"/>
@@ -44,7 +44,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.7059,1,1,1</string>
+      <string>0.71,1,1,1</string>
     </dict>
   </lib>
 </glyph>

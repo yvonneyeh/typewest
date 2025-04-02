@@ -2,7 +2,6 @@
 <glyph name="R" format="2">
   <advance width="656"/>
   <unicode hex="0052"/>
-  <image fileName="R_.png" xScale="3.211625284596118" xyScale="-0.11215242625724973" yxScale="0.11215242625724964" yScale="3.2116252845961153" xOffset="-84.34510651796101" yOffset="-161.56217483502473"/>
   <outline>
     <contour>
       <point x="190" y="750" type="line"/>
@@ -55,7 +54,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.7059,1,1,1</string>
+      <string>0.71,1,1,1</string>
     </dict>
   </lib>
 </glyph>

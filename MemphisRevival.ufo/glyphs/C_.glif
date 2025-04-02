@@ -2,8 +2,7 @@
 <glyph name="C" format="2">
   <advance width="812"/>
   <unicode hex="0043"/>
-  <image fileName="C_.png" xScale="7.5477544914275905" yScale="7.055369458067773" xOffset="-45.669282304204344" yOffset="-110.57867441371536"/>
-  <guideline x="2910" y="-155" angle="0" identifier="uaERWTL1pR"/>
+  <guideline x="2910" y="-155" angle="0"/>
   <outline>
     <contour>
       <point x="742" y="736" type="line"/>
@@ -48,7 +47,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.7059,1,1,1</string>
+      <string>0.71,1,1,1</string>
     </dict>
   </lib>
 </glyph>

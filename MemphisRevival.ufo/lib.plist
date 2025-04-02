@@ -6,13 +6,42 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <integer>0</integer>
+        <integer>1</integer>
         <key>ascending</key>
         <string>Latin-1</string>
         <key>type</key>
         <string>characterSet</string>
       </dict>
     </array>
+    <key>com.schriftgestaltung.DisplayStrings</key>
+    <array>
+      <string>ÀÀÁÁÂÂÃÃÄÄÅÅÇÇÈÈÉÉÊÊËËÌÌÍÍÎÎÏÏÑÑÒÒÓÓÔÔÕÕÖÖÙÙÚÚÛÛÜÜÝÝààááââããääååççèèééêêëëììííîîïïññòòóóôôõõööùùúúûûüüýýÿÿĀĀĂĂĄĄǺǺĆĆĈĈĊĊČČĎĎĒĒĔĔĖĖĘĘĚĚĜĜĞĞĠĠǦǦǴǴĤĤĨĨĪĪĬĬĮĮǾǾĐĐāāăăąąǻǻććĉĉċċččďēēĕĕėėęęěěĝĝğğġġǧǧǵǵĥĥĩĩīīĭĭįį/eng/eng ōōŏŏőőǫǫũũūūŭŭůůűűųųŷŷȳȳđđ/Idotaccent/Idotaccent/idotaccent/idotaccent 
+Ñ
+Ò
+Ó
+Ô
+Õ
+Ö
+Ù
+Ú
+Û
+Ü
+Ý
+Ø/Ø 
+ñ
+/eng 
+</string>
+    </array>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>3343</string>
+    <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+    <false/>
+    <key>com.schriftgestaltung.formatVersion</key>
+    <integer>3</integer>
+    <key>com.schriftgestaltung.useGlyphOrder</key>
+    <true/>
+    <key>com.schriftgestaltung.useNiceNames</key>
+    <false/>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -31,6 +60,8 @@
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.3mx2OO5rba</key>
     <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.3oIRQJfyIl</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.Oalm7AN4Al</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.PSbLAUAnyJ</key>
@@ -43,6 +74,8 @@
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.3mx2OO5rba</key>
     <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.3oIRQJfyIl</key>
+    <true/>
     <key>com.typemytype.robofont.guideline.showMeasurements.Oalm7AN4Al</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.PSbLAUAnyJ</key>
@@ -262,90 +295,147 @@
       <string>quoteleft</string>
       <string>quoteright</string>
       <string>minus</string>
-      <string>Abreve</string>
       <string>Amacron</string>
+      <string>Abreve</string>
       <string>Aogonek</string>
       <string>Aringacute</string>
       <string>Cacute</string>
-      <string>Ccaron</string>
       <string>Ccircumflex</string>
       <string>Cdotaccent</string>
+      <string>Ccaron</string>
       <string>Dcaron</string>
-      <string>Dcroat</string>
-      <string>Ebreve</string>
-      <string>Ecaron</string>
-      <string>Edotaccent</string>
       <string>Emacron</string>
+      <string>Ebreve</string>
+      <string>Edotaccent</string>
       <string>Eogonek</string>
-      <string>Gacute</string>
-      <string>Gbreve</string>
-      <string>Gcaron</string>
+      <string>Ecaron</string>
       <string>Gcircumflex</string>
+      <string>Gbreve</string>
       <string>Gdotaccent</string>
-      <string>Hbar</string>
+      <string>Gcaron</string>
+      <string>Gacute</string>
       <string>Hcircumflex</string>
-      <string>Ibreve</string>
-      <string>Idotaccent</string>
-      <string>Imacron</string>
-      <string>Iogonek</string>
       <string>Itilde</string>
-      <string>Q.alt</string>
-      <string>abreve</string>
-      <string>aeacute</string>
+      <string>Imacron</string>
+      <string>Ibreve</string>
+      <string>Iogonek</string>
+      <string>oring</string>
+      <string>Ø</string>
+      <string>Dcroat</string>
+      <string>Hbar</string>
       <string>amacron</string>
+      <string>abreve</string>
       <string>aogonek</string>
       <string>aringacute</string>
-      <string>breve.case</string>
       <string>cacute</string>
-      <string>caron.case</string>
-      <string>ccaron</string>
       <string>ccircumflex</string>
       <string>cdotaccent</string>
-      <string>circumflex.case</string>
-      <string>dblquoteleft</string>
-      <string>dblquoteright</string>
+      <string>ccaron</string>
       <string>dcaron</string>
-      <string>dcroat</string>
-      <string>dotaccent.case</string>
-      <string>dotlessj</string>
-      <string>ebreve</string>
-      <string>ecaron</string>
-      <string>edotaccent</string>
       <string>emacron</string>
-      <string>emdash</string>
-      <string>endash</string>
-      <string>eng</string>
+      <string>ebreve</string>
+      <string>edotaccent</string>
       <string>eogonek</string>
-      <string>gacute</string>
-      <string>gbreve</string>
-      <string>gcaron</string>
+      <string>ecaron</string>
       <string>gcircumflex</string>
+      <string>gbreve</string>
       <string>gdotaccent</string>
-      <string>hbar</string>
+      <string>gcaron</string>
+      <string>gacute</string>
       <string>hcircumflex</string>
-      <string>hungarumlaut.case</string>
-      <string>ibreve</string>
-      <string>idotaccent</string>
-      <string>imacron</string>
-      <string>iogonek</string>
       <string>itilde</string>
-      <string>obreve</string>
-      <string>ogonek.case</string>
-      <string>ohungarumlaut</string>
+      <string>imacron</string>
+      <string>ibreve</string>
+      <string>iogonek</string>
+      <string>eng</string>
       <string>omacron</string>
+      <string>obreve</string>
+      <string>ohungarumlaut</string>
       <string>oogonek</string>
-      <string>oring</string>
-      <string>oslashacute</string>
-      <string>ring.case</string>
-      <string>tilde.case</string>
-      <string>ubreve</string>
-      <string>uhungarumlaut</string>
-      <string>umacron</string>
-      <string>uogonek</string>
-      <string>uring</string>
       <string>utilde</string>
+      <string>umacron</string>
+      <string>ubreve</string>
+      <string>uring</string>
+      <string>uhungarumlaut</string>
+      <string>uogonek</string>
       <string>ycircumflex</string>
       <string>ymacron</string>
+      <string>aeacute</string>
+      <string>oslashacute</string>
+      <string>dcroat</string>
+      <string>hbar</string>
+      <string>dotlessj</string>
+      <string>endash</string>
+      <string>emdash</string>
+      <string>Idotaccent</string>
+      <string>dblquoteleft</string>
+      <string>dblquoteright</string>
+      <string>idotaccent</string>
+      <string>hungarumlaut.case</string>
+      <string>circumflex.case</string>
+      <string>caron.case</string>
+      <string>breve.case</string>
+      <string>tilde.case</string>
+      <string>dotaccent.case</string>
+      <string>ring.case</string>
+      <string>ogonek.case</string>
+      <string>Q.alt</string>
+      <string>Lacute</string>
+      <string>Lcaron</string>
+      <string>Lslash</string>
+      <string>Nacute</string>
+      <string>Ncaron</string>
+      <string>Ohungarumlaut</string>
+      <string>OE</string>
+      <string>Racute</string>
+      <string>Rcaron</string>
+      <string>Sacute</string>
+      <string>Scaron</string>
+      <string>Germandbls</string>
+      <string>Tcaron</string>
+      <string>Uhungarumlaut</string>
+      <string>Uring</string>
+      <string>Ydieresis</string>
+      <string>Zacute</string>
+      <string>Zcaron</string>
+      <string>Zdotaccent</string>
+      <string>lacute</string>
+      <string>lcaron</string>
+      <string>lslash</string>
+      <string>nacute</string>
+      <string>ncaron</string>
+      <string>zacute</string>
+      <string>zcaron</string>
+      <string>zdotaccent</string>
+      <string>oe</string>
+      <string>racute</string>
+      <string>rcaron</string>
+      <string>sacute</string>
+      <string>scaron</string>
+      <string>tcaron</string>
+      <string>trademark</string>
+      <string>euro</string>
+      <string>equal==</string>
+      <string>number</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict>
+      <key>Gacute</key>
+      <string>uni01F4</string>
+      <key>dotlessj</key>
+      <string>uni0237</string>
+      <key>gacute</key>
+      <string>uni01F5</string>
+      <key>guillemetleft</key>
+      <string>guillemotleft</string>
+      <key>guillemetright</key>
+      <string>guillemotright</string>
+      <key>idotaccent</key>
+      <string>i.loclTRK</string>
+      <key>oogonek</key>
+      <string>uni01EB</string>
+      <key>ymacron</key>
+      <string>uni0233</string>
+    </dict>
   </dict>
 </plist>

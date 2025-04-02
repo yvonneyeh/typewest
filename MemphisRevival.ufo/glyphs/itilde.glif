@@ -3,7 +3,26 @@
   <advance width="297"/>
   <unicode hex="0129"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="tilde" xOffset="16" yOffset="-121"/>
+    <component base="dotlessi" identifier="85E8AA89"/>
+    <component base="tilde" xOffset="-18" yOffset="-75" identifier="800F7AA3"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>800F7AA3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>85E8AA89</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

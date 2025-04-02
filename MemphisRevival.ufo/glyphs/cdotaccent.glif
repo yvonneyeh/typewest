@@ -3,7 +3,26 @@
   <advance width="547"/>
   <unicode hex="010B"/>
   <outline>
-    <component base="c"/>
-    <component base="dotaccent" xOffset="136" yOffset="-694"/>
+    <component base="c" identifier="4E5481F5"/>
+    <component base="dotaccent" xOffset="136" yOffset="-99" identifier="633D0768"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4E5481F5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>633D0768</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

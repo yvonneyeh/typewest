@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ntilde" format="2">
+  <advance width="607"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <component base="n" identifier="89B1E9BB"/>
+    <component base="tilde" xOffset="172" yOffset="-173" identifier="8F711B6C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.markColor</key>
+      <string>1,1,0.041,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>89B1E9BB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8F711B6C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -3,7 +3,26 @@
   <advance width="642"/>
   <unicode hex="00E4"/>
   <outline>
-    <component base="a"/>
-    <component base="dieresis" xOffset="191" yOffset="27"/>
+    <component base="a" identifier="F69708AB"/>
+    <component base="dieresis" xOffset="191" yOffset="27" identifier="754E9E9C"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>754E9E9C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F69708AB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

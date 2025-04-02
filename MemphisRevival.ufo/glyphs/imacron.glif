@@ -3,7 +3,26 @@
   <advance width="297"/>
   <unicode hex="012B"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="macron" xOffset="16.5" yOffset="-72"/>
+    <component base="dotlessi" identifier="BD6FC3A8"/>
+    <component base="macron" xOffset="17" yOffset="-72" identifier="17DB0A88"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>17DB0A88</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BD6FC3A8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

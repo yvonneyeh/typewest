@@ -3,7 +3,26 @@
   <advance width="584"/>
   <unicode hex="00F6"/>
   <outline>
-    <component base="o"/>
-    <component base="dieresis" xOffset="153" yOffset="27"/>
+    <component base="o" identifier="CA41AC70"/>
+    <component base="dieresis" xOffset="153" yOffset="27" identifier="10FFC1F4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>10FFC1F4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CA41AC70</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflex" format="2">
+  <advance width="812"/>
+  <unicode hex="00D4"/>
+  <outline>
+    <component base="O" identifier="A8F6ED40"/>
+    <component base="circumflex" xOffset="268" yOffset="5" identifier="5D4E8134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.markColor</key>
+      <string>1,1,0.041,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5D4E8134</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A8F6ED40</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

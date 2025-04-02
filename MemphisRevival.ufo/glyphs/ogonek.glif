@@ -4,26 +4,26 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="168.0064576546285" y="-227" type="curve" smooth="yes"/>
-      <point x="203.0064576546285" y="-218"/>
-      <point x="245.0064576546285" y="-183"/>
-      <point x="256.0064576546285" y="-169" type="curve"/>
-      <point x="232.0064576546285" y="-141" type="line"/>
-      <point x="215.0064576546285" y="-158"/>
-      <point x="191.0064576546285" y="-178"/>
-      <point x="160.0064576546285" y="-186" type="curve" smooth="yes"/>
-      <point x="123.00645765462848" y="-195"/>
-      <point x="97.00645765462848" y="-179"/>
-      <point x="88.00645765462848" y="-149" type="curve" smooth="yes"/>
-      <point x="73.00645765462848" y="-99"/>
-      <point x="127.00645765462848" y="-37"/>
-      <point x="194.0064576546285" y="1" type="curve"/>
-      <point x="134.0064576546285" y="1" type="line"/>
-      <point x="73.00645765462848" y="-38"/>
-      <point x="28.006457654628477" y="-107"/>
-      <point x="46.00645765462848" y="-170" type="curve" smooth="yes"/>
-      <point x="61.00645765462848" y="-222"/>
-      <point x="103.00645765462848" y="-246"/>
+      <point x="168.00646" y="-227" type="curve" smooth="yes"/>
+      <point x="203.00646" y="-218"/>
+      <point x="245.00646" y="-183"/>
+      <point x="256.00646" y="-169" type="curve"/>
+      <point x="232.00646" y="-141" type="line"/>
+      <point x="215.00646" y="-158"/>
+      <point x="191.00646" y="-178"/>
+      <point x="160.00646" y="-186" type="curve" smooth="yes"/>
+      <point x="123.00646" y="-195"/>
+      <point x="97.00646" y="-179"/>
+      <point x="88.00646" y="-149" type="curve" smooth="yes"/>
+      <point x="73.00646" y="-99"/>
+      <point x="127.00646" y="-37"/>
+      <point x="194.00646" y="1" type="curve"/>
+      <point x="134.00646" y="1" type="line"/>
+      <point x="73.00646" y="-38"/>
+      <point x="28.00646" y="-107"/>
+      <point x="46.00646" y="-170" type="curve" smooth="yes"/>
+      <point x="61.00646" y="-222"/>
+      <point x="103.00646" y="-246"/>
     </contour>
   </outline>
   <lib>

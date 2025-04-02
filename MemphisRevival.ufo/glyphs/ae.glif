@@ -2,12 +2,12 @@
 <glyph name="ae" format="2">
   <advance width="833"/>
   <unicode hex="00E6"/>
-  <guideline x="457" y="242" angle="0" identifier="cRUI2rxnIX"/>
-  <guideline x="266" y="423" angle="0" identifier="hAvRxMqbCS"/>
-  <guideline x="322" y="53" angle="0" identifier="mfu8XPjrJ7"/>
-  <guideline x="457" y="242" angle="0" identifier="aqtRyt0JbW"/>
-  <guideline x="266" y="423" angle="0" identifier="mPJQgdmCJn"/>
-  <guideline x="322" y="53" angle="0" identifier="VPfy7D5Trl"/>
+  <guideline x="457" y="242" angle="0"/>
+  <guideline x="266" y="423" angle="0"/>
+  <guideline x="322" y="53" angle="0"/>
+  <guideline x="457" y="242" angle="0"/>
+  <guideline x="266" y="423" angle="0"/>
+  <guideline x="322" y="53" angle="0"/>
   <outline>
     <contour>
       <point x="413" y="262" type="line"/>

@@ -3,7 +3,26 @@
   <advance width="769"/>
   <unicode hex="00C3"/>
   <outline>
-    <component base="A"/>
-    <component base="tilde" xOffset="245" yOffset="183"/>
+    <component base="A" identifier="57DCCCD5"/>
+    <component base="tilde" xOffset="245" yOffset="183" identifier="B71BC623"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>57DCCCD5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B71BC623</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

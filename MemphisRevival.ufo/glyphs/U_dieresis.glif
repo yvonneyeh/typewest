@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis" format="2">
+  <advance width="742"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <component base="U" identifier="57DAEED8"/>
+    <component base="dieresis" xOffset="232" yOffset="157" identifier="081FA69F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.markColor</key>
+      <string>1,1,0.041,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>081FA69F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>57DAEED8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

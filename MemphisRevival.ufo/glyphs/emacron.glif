@@ -3,7 +3,26 @@
   <advance width="554"/>
   <unicode hex="0113"/>
   <outline>
-    <component base="e"/>
-    <component base="macron" xOffset="138" yOffset="11"/>
+    <component base="e" identifier="C4048036"/>
+    <component base="macron" xOffset="138" yOffset="11" identifier="5A8DF8CC"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5A8DF8CC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C4048036</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="zero" format="2">
-  <advance width="675"/>
-  <unicode hex="0030"/>
-  <image fileName="O_.png" xOffset="1114.9178767999967" yOffset="925"/>
-  <guideline x="2910" y="-155" angle="0" identifier="B3yOfgTNCk"/>
-  <outline>
-  </outline>
-</glyph>

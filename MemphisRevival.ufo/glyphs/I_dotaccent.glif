@@ -2,7 +2,26 @@
 <glyph name="Idotaccent" format="2">
   <advance width="316"/>
   <outline>
-    <component base="I"/>
-    <component base="dotaccent" xOffset="19" yOffset="199"/>
+    <component base="I" identifier="8FDB4094"/>
+    <component base="dotaccent" xOffset="19" yOffset="185" identifier="B5C9A535"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8FDB4094</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B5C9A535</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

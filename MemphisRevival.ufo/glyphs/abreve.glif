@@ -3,7 +3,26 @@
   <advance width="642"/>
   <unicode hex="0103"/>
   <outline>
-    <component base="a"/>
-    <component base="breve" xOffset="192" yOffset="-73"/>
+    <component base="a" identifier="D1747C93"/>
+    <component base="breve" xOffset="192" yOffset="-73" identifier="453366D1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>453366D1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D1747C93</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

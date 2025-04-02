@@ -3,24 +3,12 @@
 <plist version="1.0">
   <array>
     <array>
-      <string>new</string>
-      <string>glyphs.new</string>
-    </array>
-    <array>
       <string>foreground</string>
       <string>glyphs</string>
     </array>
     <array>
-      <string>background</string>
-      <string>glyphs.background</string>
-    </array>
-    <array>
-      <string>scan</string>
-      <string>glyphs.scan</string>
-    </array>
-    <array>
-      <string>A</string>
-      <string>glyphs.A_</string>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
     </array>
   </array>
 </plist>

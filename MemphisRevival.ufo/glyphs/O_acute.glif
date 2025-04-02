@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oacute" format="2">
+  <advance width="812"/>
+  <unicode hex="00D3"/>
+  <outline>
+    <component base="O" identifier="02A7F988"/>
+    <component base="acute" xOffset="236" yOffset="189" identifier="12C8A853"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.markColor</key>
+      <string>1,1,0.041,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>02A7F988</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>12C8A853</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

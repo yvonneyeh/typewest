@@ -31,8 +31,7 @@
       <key>public.truetype.instructions</key>
       <dict>
         <key>assembly</key>
-        <string>
-PUSHW[ ]	/* 1 value pushed */
+        <string>PUSHW[ ]	/* 1 value pushed */
 20
 MDAP[1]	/* MoveDirectAbsPt */
 PUSHW[ ]	/* 1 value pushed */
@@ -76,8 +75,7 @@ PUSHW[ ]	/* 1 value pushed */
 4
 MDRP[11100]	/* MoveDirectRelPt */
 IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */
-</string>
+IUP[1]	/* InterpolateUntPts */</string>
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>

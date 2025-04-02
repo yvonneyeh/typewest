@@ -3,7 +3,26 @@
   <advance width="297"/>
   <unicode hex="012D"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="breve" xOffset="-4" yOffset="-52"/>
+    <component base="dotlessi" identifier="D1CE77CB"/>
+    <component base="breve" xOffset="-4" yOffset="-52" identifier="FAC666EE"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D1CE77CB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FAC666EE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
