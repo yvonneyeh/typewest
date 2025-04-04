@@ -27,6 +27,14 @@
       <point x="52" y="700" type="line"/>
       <point x="140" y="700" type="line"/>
       <point x="140" y="400" type="line"/>
+      <point x="52" y="400" type="line"/>
+      <point x="52" y="352" type="line"/>
+      <point x="140" y="352" type="line"/>
+      <point x="140" y="50" type="line"/>
+      <point x="52" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="352" type="line"/>
       <point x="201" y="400" type="line"/>
       <point x="201" y="700" type="line"/>
       <point x="366" y="699" type="line" smooth="yes"/>
@@ -37,24 +45,13 @@
       <point x="491" y="50"/>
       <point x="377" y="50" type="qcurve" smooth="yes"/>
       <point x="201" y="50" type="line"/>
-      <point x="201" y="352" type="line"/>
-      <point x="140" y="352" type="line"/>
-      <point x="140" y="50" type="line"/>
-      <point x="52" y="50" type="line"/>
     </contour>
     <contour>
+      <point x="201" y="400" type="line"/>
       <point x="201" y="352" type="line"/>
       <point x="376" y="352" type="line"/>
       <point x="376" y="400" type="line"/>
-      <point x="201" y="400" type="line"/>
     </contour>
-    <contour>
-      <point x="52" y="352" type="line"/>
-      <point x="140" y="352" type="line"/>
-      <point x="140" y="400" type="line"/>
-      <point x="52" y="400" type="line"/>
-    </contour>
-    <component base="D"/>
   </outline>
   <lib>
     <dict>
