@@ -12,17 +12,21 @@
       </dict>
     </array>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
-    <true/>
+    <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-    <false/>
+    <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
-    <false/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
-    <integer>0</integer>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.layerName</key>
+    <string>new</string>
+    <key>com.typemytype.robofont.compileSettings.path</key>
+    <string>/Users/Yvonne/Desktop/MemphisRevivalLite.ttf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
-    <false/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.guideline.magnetic.3mx2OO5rba</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.V1tHpEg37h</key>

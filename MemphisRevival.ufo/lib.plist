@@ -368,8 +368,8 @@
       <string>endash</string>
       <string>emdash</string>
       <string>Idotaccent</string>
-      <string>dblquoteleft</string>
-      <string>dblquoteright</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
       <string>idotaccent</string>
       <string>hungarumlaut.case</string>
       <string>circumflex.case</string>
@@ -421,6 +421,8 @@
       <string>germandbls.alt</string>
       <string>fraction</string>
       <string>Oslashacute</string>
+      <string>quoteleft.alt</string>
+      <string>quoteright.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

@@ -302,10 +302,6 @@
     <string>currency.glif</string>
     <key>d</key>
     <string>d.glif</string>
-    <key>dblquoteleft</key>
-    <string>dblquoteleft.glif</string>
-    <key>dblquoteright</key>
-    <string>dblquoteright.glif</string>
     <key>dcaron</key>
     <string>dcaron.glif</string>
     <key>dcroat</key>
@@ -538,10 +534,18 @@
     <string>questiondown.glif</string>
     <key>quotedbl</key>
     <string>quotedbl.glif</string>
+    <key>quotedblleft</key>
+    <string>quotedblleft.glif</string>
+    <key>quotedblright</key>
+    <string>quotedblright.glif</string>
     <key>quoteleft</key>
     <string>quoteleft.glif</string>
+    <key>quoteleft.alt</key>
+    <string>quoteleft.alt.glif</string>
     <key>quoteright</key>
     <string>quoteright.glif</string>
+    <key>quoteright.alt</key>
+    <string>quoteright.alt.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
     <key>r</key>
