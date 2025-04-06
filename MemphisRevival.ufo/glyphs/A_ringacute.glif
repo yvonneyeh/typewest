@@ -4,7 +4,7 @@
   <unicode hex="01FA"/>
   <outline>
     <component base="A" identifier="1FC0637D"/>
-    <component base="ring" xOffset="245" yOffset="272" identifier="8F780D56"/>
+    <component base="ring" xOffset="245" yOffset="313" identifier="8F780D56"/>
     <component base="acute" xOffset="214" yOffset="475" identifier="BE070654"/>
   </outline>
   <lib>
