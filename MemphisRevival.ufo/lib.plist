@@ -436,6 +436,8 @@
       <string>ffl</string>
       <string>longst</string>
       <string>st</string>
+      <string>Omacron</string>
+      <string>Umacron</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

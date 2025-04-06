@@ -148,6 +148,8 @@
     <string>O_grave.glif</string>
     <key>Ohungarumlaut</key>
     <string>O_hungarumlaut.glif</string>
+    <key>Omacron</key>
+    <string>O_macron.glif</string>
     <key>Oslash</key>
     <string>O_slash.glif</string>
     <key>Otilde</key>
@@ -188,6 +190,8 @@
     <string>U_grave.glif</string>
     <key>Uhungarumlaut</key>
     <string>U_hungarumlaut.glif</string>
+    <key>Umacron</key>
+    <string>U_macron.glif</string>
     <key>Uring</key>
     <string>U_ring.glif</string>
     <key>V</key>
