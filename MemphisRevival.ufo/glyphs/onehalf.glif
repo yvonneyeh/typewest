@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="OE" format="2">
-  <advance width="812"/>
-  <unicode hex="0152"/>
+<glyph name="onehalf" format="2">
+  <advance width="339"/>
+  <unicode hex="00BD"/>
   <outline>
-    <component base="O"/>
-    <component base="E"/>
+    <component base="one"/>
+    <component base="fraction"/>
+    <component base="two"/>
   </outline>
   <lib>
     <dict>

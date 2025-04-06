@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="OE" format="2">
-  <advance width="812"/>
-  <unicode hex="0152"/>
+<glyph name="IJ" format="2">
+  <advance width="316"/>
+  <unicode hex="0132"/>
   <outline>
-    <component base="O"/>
-    <component base="E"/>
+    <component base="I"/>
+    <component base="J"/>
   </outline>
   <lib>
     <dict>

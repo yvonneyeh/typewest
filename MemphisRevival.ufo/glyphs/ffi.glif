@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="OE" format="2">
-  <advance width="812"/>
-  <unicode hex="0152"/>
+<glyph name="ffi" format="2">
+  <advance width="358"/>
+  <unicode hex="FB03"/>
   <outline>
-    <component base="O"/>
-    <component base="E"/>
+    <component base="f"/>
+    <component base="f"/>
+    <component base="i"/>
   </outline>
   <lib>
     <dict>
