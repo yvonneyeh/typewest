@@ -582,6 +582,8 @@
     <string>rcaron.glif</string>
     <key>registered</key>
     <string>registered.glif</string>
+    <key>registered.large</key>
+    <string>registered.large.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
     <key>ring.case</key>
