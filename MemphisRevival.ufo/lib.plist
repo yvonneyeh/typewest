@@ -372,8 +372,8 @@
       <string>quotedblright</string>
       <string>idotaccent</string>
       <string>hungarumlaut.case</string>
-      <string>circumflex.case</string>
-      <string>caron.case</string>
+      <string>guilsinglleft</string>
+      <string>guilsinglright</string>
       <string>breve.case</string>
       <string>dotaccent.case</string>
       <string>ring.case</string>
@@ -439,6 +439,7 @@
       <string>Omacron</string>
       <string>Umacron</string>
       <string>registered.large</string>
+      <string>ellipsis</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

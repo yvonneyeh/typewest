@@ -344,6 +344,8 @@
     <string>egrave.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>ellipsis</key>
+    <string>ellipsis.glif</string>
     <key>emacron</key>
     <string>emacron.glif</string>
     <key>emdash</key>
@@ -408,6 +410,10 @@
     <string>guillemetleft.glif</string>
     <key>guillemetright</key>
     <string>guillemetright.glif</string>
+    <key>guilsinglleft</key>
+    <string>guilsinglleft.glif</string>
+    <key>guilsinglright</key>
+    <string>guilsinglright.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>hbar</key>
