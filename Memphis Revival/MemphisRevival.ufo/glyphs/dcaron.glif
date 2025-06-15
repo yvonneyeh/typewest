@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="733"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="596.999996013986" y="548" type="line"/>
+      <point x="649.999996013986" y="750" type="line"/>
+      <point x="708.999996013986" y="750" type="line"/>
+      <point x="632.999996013986" y="548" type="line"/>
+      <point x="596.999996013986" y="548" type="line"/>
+    </contour>
+    <component base="d" xOffset="-3.9860139864345e-06" identifier="6B9A151C"/>
+    <component base="commaaccent" xOffset="612.999996013986" yOffset="750" identifier="DF9AA716"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6B9A151C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DF9AA716</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

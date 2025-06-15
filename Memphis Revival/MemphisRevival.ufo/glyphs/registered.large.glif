@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="registered.large" format="2">
+  <advance width="698"/>
+  <outline>
+    <component base="R" xScale="0.4986229295399927" yScale="0.4986229295399927" xOffset="186" yOffset="146"/>
+    <component base="circle" xOffset="-42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.989,0.4357,0.8117,1</string>
+    </dict>
+  </lib>
+</glyph>

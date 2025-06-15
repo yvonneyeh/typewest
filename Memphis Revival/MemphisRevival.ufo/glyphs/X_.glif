@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="769"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="291" y="0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="50" type="line"/>
+      <point x="134" y="50" type="line"/>
+      <point x="348" y="373" type="line"/>
+      <point x="348" y="375" type="line"/>
+      <point x="134" y="700" type="line"/>
+      <point x="45" y="700" type="line"/>
+      <point x="45" y="750" type="line"/>
+      <point x="291" y="750" type="line"/>
+      <point x="291" y="700" type="line"/>
+      <point x="202" y="700" type="line"/>
+      <point x="382" y="425" type="line"/>
+      <point x="384" y="425" type="line"/>
+      <point x="567" y="700" type="line"/>
+      <point x="478" y="700" type="line"/>
+      <point x="478" y="750" type="line"/>
+      <point x="724" y="750" type="line"/>
+      <point x="724" y="700" type="line"/>
+      <point x="635" y="700" type="line"/>
+      <point x="419" y="375" type="line"/>
+      <point x="419" y="373" type="line"/>
+      <point x="634" y="50" type="line"/>
+      <point x="723" y="50" type="line"/>
+      <point x="723" y="0" type="line"/>
+      <point x="477" y="0" type="line"/>
+      <point x="477" y="50" type="line"/>
+      <point x="566" y="50" type="line"/>
+      <point x="384" y="322" type="line"/>
+      <point x="382" y="322" type="line"/>
+      <point x="202" y="50" type="line"/>
+      <point x="291" y="50" type="line"/>
+      <point x="291" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.71,1,1,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>RTG[ ]	/* RoundToGrid */
+SVTCA[1]	/* SetFPVectorToAxis */
+NPUSHB[ ]	/* 4 values pushed */
+18 23 24 3
+NPUSHB[ ]	/* 4 values pushed */
+2 7 8 3
+NPUSHW[ ]	/* 4 values pushed */
+655 17 1 0
+CALL[ ]	/* CallFunction */
+IUP[1]	/* InterpolateUntPts */
+RTG[ ]	/* RoundToGrid */
+SVTCA[0]	/* SetFPVectorToAxis */
+NPUSHB[ ]	/* 4 values pushed */
+9 16 17 3
+NPUSHB[ ]	/* 8 values pushed */
+7 10 11 14 15 18 19 7
+NPUSHW[ ]	/* 4 values pushed */
+46 8 6 0
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 8 values pushed */
+3 22 23 26 27 30 31 7
+NPUSHB[ ]	/* 5 values pushed */
+1 24 25 32 4
+NPUSHW[ ]	/* 4 values pushed */
+46 2 0 0
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+12
+PUSHB[ ]	/* 1 value pushed */
+0
+MIAP[1]	/* MoveIndirectAbsPt */
+NPUSHB[ ]	/* 2 values pushed */
+13 1
+PUSHB[ ]	/* 1 value pushed */
+1
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHW[ ]	/* 1 value pushed */
+8
+PUSHB[ ]	/* 1 value pushed */
+1
+MIAP[1]	/* MoveIndirectAbsPt */
+NPUSHB[ ]	/* 12 values pushed */
+6 7 9 10 11 14 15 16 17 18 19 11
+PUSHB[ ]	/* 1 value pushed */
+1
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHW[ ]	/* 1 value pushed */
+0
+PUSHB[ ]	/* 1 value pushed */
+4
+MIAP[1]	/* MoveIndirectAbsPt */
+NPUSHB[ ]	/* 13 values pushed */
+1 2 3 22 23 24 25 26 27 30 31 32 12
+PUSHB[ ]	/* 1 value pushed */
+1
+LOOPCALL[ ]	/* LoopAndCallFunction */
+IUP[0]	/* InterpolateUntPts */</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f9f7982fcb10d6906c15f1fc63803643ceac833cbcce70ef1031de4d13d9a6a08996f783413ee1be0c25bb607e9de042b6c845ec9cac6c83a060cb63ad211d59</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

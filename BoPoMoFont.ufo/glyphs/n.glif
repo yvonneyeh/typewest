@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="638"/>
+  <unicode hex="006E"/>
+  <anchor x="75" y="264" name="new anchor"/>
+  <outline>
+    <contour>
+      <point x="116" y="-5" type="qcurve"/>
+      <point x="70" y="-5"/>
+      <point x="70" y="45" type="qcurve"/>
+      <point x="70" y="465" type="line"/>
+      <point x="70" y="515"/>
+      <point x="116" y="515" type="qcurve"/>
+      <point x="160" y="515"/>
+      <point x="160" y="465" type="qcurve"/>
+      <point x="160" y="459" type="line"/>
+      <point x="178" y="480"/>
+      <point x="206" y="496" type="qcurve"/>
+      <point x="258" y="525"/>
+      <point x="325" y="525" type="qcurve"/>
+      <point x="422" y="525"/>
+      <point x="541" y="409"/>
+      <point x="541" y="307" type="qcurve"/>
+      <point x="541" y="45" type="line"/>
+      <point x="541" y="-5"/>
+      <point x="497" y="-5" type="qcurve"/>
+      <point x="451" y="-5"/>
+      <point x="451" y="45" type="qcurve"/>
+      <point x="451" y="294" type="line"/>
+      <point x="451" y="445"/>
+      <point x="309" y="445" type="qcurve"/>
+      <point x="241" y="445"/>
+      <point x="160" y="362"/>
+      <point x="160" y="291" type="qcurve"/>
+      <point x="160" y="45" type="line"/>
+      <point x="160" y="-5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-06-15 21:51:51 +0000</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>e24272868376fa1a9ae9de96a150898f8e56ff2ec36f5e03b11cc3c25bd3eacd8914b73034372f6a424daf1f5695acd1f6677827891f34f5778e94227666892e</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

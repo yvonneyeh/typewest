@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron" format="2">
+  <advance width="297"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="48" y="604" type="line"/>
+      <point x="248" y="604" type="line"/>
+      <point x="248" y="650" type="line"/>
+      <point x="48" y="650" type="line"/>
+    </contour>
+    <component base="dotlessi" identifier="BD6FC3A8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-02 04:01:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>17DB0A88</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BD6FC3A8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
