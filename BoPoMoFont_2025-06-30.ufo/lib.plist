@@ -173,8 +173,10 @@
       <string>y</string>
       <string>z</string>
       <string>e.alt</string>
+      <string>k.alt</string>
       <string>s.alt</string>
       <string>t.alt</string>
+      <string>w.alt</string>
       <string>b-bopomofo</string>
       <string>p-bopomofo</string>
       <string>m-bopomofo</string>
@@ -212,6 +214,9 @@
       <string>i-bopomofo</string>
       <string>u-bopomofo</string>
       <string>iu-bopomofo</string>
+      <string>comma</string>
+      <string>period</string>
+      <string>periodcentered</string>
       <string>space</string>
     </array>
     <key>public.postscriptNames</key>
