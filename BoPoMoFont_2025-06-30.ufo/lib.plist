@@ -5,52 +5,115 @@
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
-        <key>allowPseudoUnicode</key>
-        <true/>
+        <key>ascending</key>
+        <array>
+          <string>A</string>
+          <string>B</string>
+          <string>C</string>
+          <string>D</string>
+          <string>E</string>
+          <string>F</string>
+          <string>G</string>
+          <string>H</string>
+          <string>I</string>
+          <string>J</string>
+          <string>K</string>
+          <string>L</string>
+          <string>M</string>
+          <string>N</string>
+          <string>O</string>
+          <string>P</string>
+          <string>Q</string>
+          <string>R</string>
+          <string>S</string>
+          <string>T</string>
+          <string>U</string>
+          <string>V</string>
+          <string>W</string>
+          <string>X</string>
+          <string>Y</string>
+          <string>Z</string>
+          <string>a</string>
+          <string>b</string>
+          <string>c</string>
+          <string>d</string>
+          <string>e</string>
+          <string>f</string>
+          <string>g</string>
+          <string>h</string>
+          <string>i</string>
+          <string>j</string>
+          <string>k</string>
+          <string>l</string>
+          <string>m</string>
+          <string>n</string>
+          <string>o</string>
+          <string>p</string>
+          <string>q</string>
+          <string>r</string>
+          <string>s</string>
+          <string>t</string>
+          <string>u</string>
+          <string>v</string>
+          <string>w</string>
+          <string>x</string>
+          <string>y</string>
+          <string>z</string>
+          <string>space</string>
+          <string>e.alt</string>
+          <string>k.alt</string>
+          <string>s.alt</string>
+          <string>w.alt</string>
+          <string>a-bopomofo</string>
+          <string>ai-bopomofo</string>
+          <string>an-bopomofo</string>
+          <string>ang-bopomofo</string>
+          <string>au-bopomofo</string>
+          <string>b-bopomofo</string>
+          <string>c-bopomofo</string>
+          <string>ch-bopomofo</string>
+          <string>d-bopomofo</string>
+          <string>e-bopomofo</string>
+          <string>eh-bopomofo</string>
+          <string>ei-bopomofo</string>
+          <string>en-bopomofo</string>
+          <string>eng-bopomofo</string>
+          <string>er-bopomofo</string>
+          <string>f-bopomofo</string>
+          <string>g-bopomofo</string>
+          <string>h-bopomofo</string>
+          <string>i-bopomofo</string>
+          <string>iu-bopomofo</string>
+          <string>j-bopomofo</string>
+          <string>k-bopomofo</string>
+          <string>l-bopomofo</string>
+          <string>m-bopomofo</string>
+          <string>n-bopomofo</string>
+          <string>o-bopomofo</string>
+          <string>ou-bopomofo</string>
+          <string>p-bopomofo</string>
+          <string>q-bopomofo</string>
+          <string>r-bopomofo</string>
+          <string>s-bopomofo</string>
+          <string>sh-bopomofo</string>
+          <string>t-bopomofo</string>
+          <string>u-bopomofo</string>
+          <string>x-bopomofo</string>
+          <string>z-bopomofo</string>
+          <string>zh-bopomofo</string>
+          <string>period</string>
+          <string>comma</string>
+          <string>periodcentered</string>
+        </array>
         <key>type</key>
-        <string>alphabetical</string>
-      </dict>
-      <dict>
-        <key>allowPseudoUnicode</key>
-        <true/>
-        <key>type</key>
-        <string>category</string>
-      </dict>
-      <dict>
-        <key>allowPseudoUnicode</key>
-        <true/>
-        <key>type</key>
-        <string>unicode</string>
-      </dict>
-      <dict>
-        <key>allowPseudoUnicode</key>
-        <true/>
-        <key>type</key>
-        <string>script</string>
-      </dict>
-      <dict>
-        <key>allowPseudoUnicode</key>
-        <true/>
-        <key>type</key>
-        <string>suffix</string>
-      </dict>
-      <dict>
-        <key>allowPseudoUnicode</key>
-        <true/>
-        <key>type</key>
-        <string>decompositionBase</string>
+        <string>glyphList</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string>m</string>
-      <string>e</string>
-      <string>A</string>
-      <string>w</string>
-      <string>v</string>
-      <string>o</string>
-      <string>p</string>
-      <string>q</string>
+      <string>O</string>
+      <string>C</string>
+      <string>Q</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3418</string>
@@ -172,52 +235,51 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>space</string>
       <string>e.alt</string>
       <string>k.alt</string>
       <string>s.alt</string>
-      <string>t.alt</string>
       <string>w.alt</string>
-      <string>b-bopomofo</string>
-      <string>p-bopomofo</string>
-      <string>m-bopomofo</string>
-      <string>f-bopomofo</string>
-      <string>d-bopomofo</string>
-      <string>t-bopomofo</string>
-      <string>n-bopomofo</string>
-      <string>l-bopomofo</string>
-      <string>g-bopomofo</string>
-      <string>k-bopomofo</string>
-      <string>h-bopomofo</string>
-      <string>j-bopomofo</string>
-      <string>q-bopomofo</string>
-      <string>x-bopomofo</string>
-      <string>zh-bopomofo</string>
-      <string>ch-bopomofo</string>
-      <string>sh-bopomofo</string>
-      <string>r-bopomofo</string>
-      <string>z-bopomofo</string>
-      <string>c-bopomofo</string>
-      <string>s-bopomofo</string>
       <string>a-bopomofo</string>
-      <string>o-bopomofo</string>
+      <string>ai-bopomofo</string>
+      <string>an-bopomofo</string>
+      <string>ang-bopomofo</string>
+      <string>au-bopomofo</string>
+      <string>b-bopomofo</string>
+      <string>c-bopomofo</string>
+      <string>ch-bopomofo</string>
+      <string>d-bopomofo</string>
       <string>e-bopomofo</string>
       <string>eh-bopomofo</string>
-      <string>ai-bopomofo</string>
       <string>ei-bopomofo</string>
-      <string>au-bopomofo</string>
-      <string>ou-bopomofo</string>
-      <string>an-bopomofo</string>
       <string>en-bopomofo</string>
-      <string>ang-bopomofo</string>
       <string>eng-bopomofo</string>
       <string>er-bopomofo</string>
+      <string>f-bopomofo</string>
+      <string>g-bopomofo</string>
+      <string>h-bopomofo</string>
       <string>i-bopomofo</string>
-      <string>u-bopomofo</string>
       <string>iu-bopomofo</string>
-      <string>comma</string>
+      <string>j-bopomofo</string>
+      <string>k-bopomofo</string>
+      <string>l-bopomofo</string>
+      <string>m-bopomofo</string>
+      <string>n-bopomofo</string>
+      <string>o-bopomofo</string>
+      <string>ou-bopomofo</string>
+      <string>p-bopomofo</string>
+      <string>q-bopomofo</string>
+      <string>r-bopomofo</string>
+      <string>s-bopomofo</string>
+      <string>sh-bopomofo</string>
+      <string>t-bopomofo</string>
+      <string>u-bopomofo</string>
+      <string>x-bopomofo</string>
+      <string>z-bopomofo</string>
+      <string>zh-bopomofo</string>
       <string>period</string>
+      <string>comma</string>
       <string>periodcentered</string>
-      <string>space</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
