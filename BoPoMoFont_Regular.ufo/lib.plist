@@ -64,6 +64,7 @@
           <string>k.alt</string>
           <string>s.alt</string>
           <string>w.alt</string>
+          <string>k.alt2</string>
           <string>a-bopomofo</string>
           <string>ai-bopomofo</string>
           <string>an-bopomofo</string>
@@ -101,9 +102,18 @@
           <string>x-bopomofo</string>
           <string>z-bopomofo</string>
           <string>zh-bopomofo</string>
+          <string>hyphen</string>
+          <string>endash</string>
+          <string>emdash</string>
           <string>period</string>
           <string>comma</string>
+          <string>colon</string>
+          <string>semicolon</string>
+          <string>exclam</string>
+          <string>question</string>
           <string>periodcentered</string>
+          <string>comma.alt</string>
+          <string>at</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -236,15 +246,42 @@
       <string>w.alt</string>
       <string>k.alt2</string>
       <string>a-bopomofo</string>
+      <string>ai-bopomofo</string>
+      <string>an-bopomofo</string>
+      <string>ang-bopomofo</string>
+      <string>au-bopomofo</string>
       <string>b-bopomofo</string>
+      <string>c-bopomofo</string>
+      <string>ch-bopomofo</string>
       <string>d-bopomofo</string>
+      <string>e-bopomofo</string>
+      <string>eh-bopomofo</string>
+      <string>ei-bopomofo</string>
+      <string>en-bopomofo</string>
+      <string>eng-bopomofo</string>
+      <string>er-bopomofo</string>
       <string>f-bopomofo</string>
       <string>g-bopomofo</string>
+      <string>h-bopomofo</string>
+      <string>i-bopomofo</string>
+      <string>iu-bopomofo</string>
+      <string>j-bopomofo</string>
+      <string>k-bopomofo</string>
       <string>l-bopomofo</string>
       <string>m-bopomofo</string>
       <string>n-bopomofo</string>
+      <string>o-bopomofo</string>
+      <string>ou-bopomofo</string>
       <string>p-bopomofo</string>
+      <string>q-bopomofo</string>
+      <string>r-bopomofo</string>
+      <string>s-bopomofo</string>
+      <string>sh-bopomofo</string>
       <string>t-bopomofo</string>
+      <string>u-bopomofo</string>
+      <string>x-bopomofo</string>
+      <string>z-bopomofo</string>
+      <string>zh-bopomofo</string>
       <string>hyphen</string>
       <string>endash</string>
       <string>emdash</string>
@@ -257,39 +294,6 @@
       <string>periodcentered</string>
       <string>comma.alt</string>
       <string>at</string>
-      <string>k-bopomofo</string>
-      <string>h-bopomofo</string>
-      <string>j-bopomofo</string>
-      <string>q-bopomofo</string>
-      <string>x-bopomofo</string>
-      <string>zh-bopomofo</string>
-      <string>ch-bopomofo</string>
-      <string>sh-bopomofo</string>
-      <string>r-bopomofo</string>
-      <string>z-bopomofo</string>
-      <string>c-bopomofo</string>
-      <string>s-bopomofo</string>
-      <string>o-bopomofo</string>
-      <string>e-bopomofo</string>
-      <string>eh-bopomofo</string>
-      <string>ai-bopomofo</string>
-      <string>ei-bopomofo</string>
-      <string>au-bopomofo</string>
-      <string>ou-bopomofo</string>
-      <string>an-bopomofo</string>
-      <string>en-bopomofo</string>
-      <string>ang-bopomofo</string>
-      <string>eng-bopomofo</string>
-      <string>er-bopomofo</string>
-      <string>i-bopomofo</string>
-      <string>u-bopomofo</string>
-      <string>iu-bopomofo</string>
-      <string>v-bopomofo</string>
-      <string>ng-bopomofo</string>
-      <string>gn-bopomofo</string>
-      <string>ih-bopomofo</string>
-      <string>oDotabove-bopomofo</string>
-      <string>nn-bopomofo</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
