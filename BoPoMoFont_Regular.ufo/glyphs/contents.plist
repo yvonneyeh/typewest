@@ -58,14 +58,26 @@
     <string>a.glif</string>
     <key>a-bopomofo</key>
     <string>a-bopomofo.glif</string>
+    <key>ai-bopomofo</key>
+    <string>ai-bopomofo.glif</string>
+    <key>an-bopomofo</key>
+    <string>an-bopomofo.glif</string>
+    <key>ang-bopomofo</key>
+    <string>ang-bopomofo.glif</string>
     <key>at</key>
     <string>at.glif</string>
+    <key>au-bopomofo</key>
+    <string>au-bopomofo.glif</string>
     <key>b</key>
     <string>b.glif</string>
     <key>b-bopomofo</key>
     <string>b-bopomofo.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>c-bopomofo</key>
+    <string>c-bopomofo.glif</string>
+    <key>ch-bopomofo</key>
+    <string>ch-bopomofo.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
@@ -78,12 +90,24 @@
     <string>d-bopomofo.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>e-bopomofo</key>
+    <string>e-bopomofo.glif</string>
     <key>e.alt</key>
     <string>e.alt.glif</string>
+    <key>eh-bopomofo</key>
+    <string>eh-bopomofo.glif</string>
+    <key>ei-bopomofo</key>
+    <string>ei-bopomofo.glif</string>
     <key>emdash</key>
     <string>emdash.glif</string>
+    <key>en-bopomofo</key>
+    <string>en-bopomofo.glif</string>
     <key>endash</key>
     <string>endash.glif</string>
+    <key>eng-bopomofo</key>
+    <string>eng-bopomofo.glif</string>
+    <key>er-bopomofo</key>
+    <string>er-bopomofo.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>f</key>
@@ -96,14 +120,24 @@
     <string>g-bopomofo.glif</string>
     <key>h</key>
     <string>h.glif</string>
+    <key>h-bopomofo</key>
+    <string>h-bopomofo.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>i-bopomofo</key>
+    <string>i-bopomofo.glif</string>
+    <key>iu-bopomofo</key>
+    <string>iu-bopomofo.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>j-bopomofo</key>
+    <string>j-bopomofo.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>k-bopomofo</key>
+    <string>k-bopomofo.glif</string>
     <key>k.alt</key>
     <string>k.alt.glif</string>
     <key>k.alt2</key>
@@ -122,6 +156,10 @@
     <string>n-bopomofo.glif</string>
     <key>o</key>
     <string>o.glif</string>
+    <key>o-bopomofo</key>
+    <string>o-bopomofo.glif</string>
+    <key>ou-bopomofo</key>
+    <string>ou-bopomofo.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>p-bopomofo</key>
@@ -132,16 +170,24 @@
     <string>periodcentered.glif</string>
     <key>q</key>
     <string>q.glif</string>
+    <key>q-bopomofo</key>
+    <string>q-bopomofo.glif</string>
     <key>question</key>
     <string>question.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>r-bopomofo</key>
+    <string>r-bopomofo.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>s-bopomofo</key>
+    <string>s-bopomofo.glif</string>
     <key>s.alt</key>
     <string>s.alt.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
+    <key>sh-bopomofo</key>
+    <string>sh-bopomofo.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>t</key>
@@ -150,6 +196,8 @@
     <string>t-bopomofo.glif</string>
     <key>u</key>
     <string>u.glif</string>
+    <key>u-bopomofo</key>
+    <string>u-bopomofo.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>w</key>
@@ -158,9 +206,15 @@
     <string>w.alt.glif</string>
     <key>x</key>
     <string>x.glif</string>
+    <key>x-bopomofo</key>
+    <string>x-bopomofo.glif</string>
     <key>y</key>
     <string>y.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>z-bopomofo</key>
+    <string>z-bopomofo.glif</string>
+    <key>zh-bopomofo</key>
+    <string>zh-bopomofo.glif</string>
   </dict>
 </plist>

@@ -10,6 +10,8 @@
     <integer>200</integer>
     <key>familyName</key>
     <string>BoPoMoFont</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -31,6 +33,10 @@
       <integer>800</integer>
       <integer>816</integer>
     </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptFontName</key>
     <string>BoPoMoFont-Regular</string>
     <key>postscriptOtherBlues</key>
@@ -38,6 +44,10 @@
       <integer>184</integer>
       <integer>200</integer>
     </array>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

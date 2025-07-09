@@ -7,16 +7,16 @@ uni3127
 </note>
   <outline>
     <contour>
-      <point x="846" y="333" type="line" smooth="yes"/>
-      <point x="904" y="333"/>
-      <point x="904" y="377" type="qcurve" smooth="yes"/>
-      <point x="904" y="420"/>
-      <point x="846" y="420" type="qcurve" smooth="yes"/>
-      <point x="154" y="420" type="line" smooth="yes"/>
-      <point x="95" y="420"/>
-      <point x="95" y="378" type="qcurve" smooth="yes"/>
-      <point x="95" y="333"/>
-      <point x="154" y="333" type="qcurve" smooth="yes"/>
+      <point x="866" y="333" type="line"/>
+      <point x="866" y="420" type="line"/>
+      <point x="134" y="420" type="line"/>
+      <point x="134" y="333" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-07-09 19:22:01 +0000</string>
+    </dict>
+  </lib>
 </glyph>

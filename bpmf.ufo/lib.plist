@@ -156,55 +156,7 @@
     </array>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string>ㄅ</string>
-      <string>ㄆ</string>
-      <string>ㄈ</string>
-      <string>ㄌ</string>
-      <string>ㄉ</string>
-      <string>ㄊ</string>
-      <string>ㄋ</string>
-      <string>ㄎ</string>
-      <string>ㄚ/a-bopomofo 
-ㄞ/ai-bopomofo 
-ㄢ/an-bopomofo 
-ㄤ/ang-bopomofo 
-ㄠ/au-bopomofo 
-ㄅ/b-bopomofo 
-ㄘ/c-bopomofo 
-ㄔ/ch-bopomofo 
-ㄉ/d-bopomofo 
-ㄜ/e-bopomofo 
-ㄝ/eh-bopomofo 
-ㄟ/ei-bopomofo 
-ㄣ/en-bopomofo 
-ㄥ/eng-bopomofo 
-ㄦ/er-bopomofo 
-ㄈ/f-bopomofo 
-ㄍ/g-bopomofo 
-ㄏ/h-bopomofo 
-ㄧ/i-bopomofo 
-ㄩ/iu-bopomofo 
-ㄐ/j-bopomofo 
-ㄎ/k-bopomofo 
-ㄌ/l-bopomofo 
-ㄇ/m-bopomofo 
-ㄋ/n-bopomofo 
-ㄛ/o-bopomofo 
-ㄡ/ou-bopomofo 
-ㄆ/p-bopomofo 
-ㄑ/q-bopomofo 
-ㄖ/r-bopomofo 
-ㄙ/s-bopomofo 
-ㄕ/sh-bopomofo 
-ㄊ/t-bopomofo 
-ㄨ/u-bopomofo 
-ㄒ/x-bopomofo 
-ㄗ/z-bopomofo 
-ㄓ/zh-bopomofo 
-</string>
-      <string>ㄍ</string>
-      <string>ㄏ</string>
-      <string>ㄐ</string>
+      <string>ㄮ</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3418</string>
