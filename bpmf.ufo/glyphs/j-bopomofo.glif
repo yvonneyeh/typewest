@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j-bopomofo" format="2">
+  <advance width="1000" height="1000"/>
+  <note>
+uni3110
+</note>
+  <outline>
+    <contour>
+      <point x="660" y="-110" type="line" smooth="yes"/>
+      <point x="660" y="-147"/>
+      <point x="697" y="-147" type="qcurve" smooth="yes"/>
+      <point x="735" y="-147"/>
+      <point x="735" y="-110" type="qcurve" smooth="yes"/>
+      <point x="735" y="705" type="line" smooth="yes"/>
+      <point x="735" y="745"/>
+      <point x="697" y="745" type="qcurve" smooth="yes"/>
+      <point x="660" y="745"/>
+      <point x="660" y="705" type="qcurve" smooth="yes"/>
+      <point x="660" y="302" type="line"/>
+      <point x="615" y="282"/>
+      <point x="519" y="244"/>
+      <point x="466" y="225" type="qcurve" smooth="yes"/>
+      <point x="364" y="188"/>
+      <point x="350" y="188" type="qcurve" smooth="yes"/>
+      <point x="339" y="188"/>
+      <point x="339" y="205" type="qcurve" smooth="yes"/>
+      <point x="339" y="623" type="line" smooth="yes"/>
+      <point x="339" y="660"/>
+      <point x="303" y="660" type="qcurve" smooth="yes"/>
+      <point x="285" y="660"/>
+      <point x="264" y="640"/>
+      <point x="264" y="623" type="qcurve" smooth="yes"/>
+      <point x="264" y="189" type="line" smooth="yes"/>
+      <point x="264" y="105"/>
+      <point x="322" y="105" type="qcurve" smooth="yes"/>
+      <point x="373" y="105"/>
+      <point x="660" y="228" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-07-09 19:03:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

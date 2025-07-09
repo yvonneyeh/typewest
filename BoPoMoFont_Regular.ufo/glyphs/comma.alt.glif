@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma.alt" format="2">
+  <advance width="304"/>
+  <outline>
+    <contour>
+      <point x="65" y="73" type="qcurve"/>
+      <point x="65" y="105"/>
+      <point x="113" y="149"/>
+      <point x="148" y="149" type="qcurve"/>
+      <point x="188" y="149"/>
+      <point x="239" y="91"/>
+      <point x="239" y="43" type="qcurve"/>
+      <point x="239" y="-52"/>
+      <point x="138" y="-157"/>
+      <point x="76" y="-165" type="qcurve"/>
+      <point x="76" y="-106" type="line"/>
+      <point x="111" y="-98"/>
+      <point x="164" y="-36"/>
+      <point x="165" y="2" type="qcurve"/>
+      <point x="155" y="-3"/>
+      <point x="141" y="-3" type="qcurve"/>
+      <point x="108" y="-3"/>
+      <point x="65" y="39"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f377ac365c42617e678f675d9330c411909ab4a6137a6720fb2be231988e44aa19ae91fbca9739f8d3403705778093a20268929d4cc70cbd54b3a6e0199d0956</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

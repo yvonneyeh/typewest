@@ -7,7 +7,8 @@ a,
 j,
 " u",
 u,
-"/u.new"
+"/u.new",
+O
 );
 customParameters = (
 {
@@ -1218,7 +1219,7 @@ unicode = 78;
 },
 {
 glyphname = O;
-lastChange = "2025-06-30 22:27:04 +0000";
+lastChange = "2025-07-01 18:09:59 +0000";
 layers = (
 {
 layerId = "2374D0AB-F754-483B-81AF-B87FF6AEB1B2";

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ei-bopomofo" format="2">
+  <advance width="1000" height="1000"/>
+  <note>
+uni311F
+</note>
+  <outline>
+    <contour>
+      <point x="833" y="-65"/>
+      <point x="804" y="-45" type="qcurve" smooth="yes"/>
+      <point x="664" y="50"/>
+      <point x="601" y="201" type="qcurve" smooth="yes"/>
+      <point x="537" y="354"/>
+      <point x="527" y="619" type="qcurve" smooth="yes"/>
+      <point x="525" y="661"/>
+      <point x="496" y="699"/>
+      <point x="465" y="699" type="qcurve" smooth="yes"/>
+      <point x="460" y="699"/>
+      <point x="420" y="694"/>
+      <point x="384" y="689" type="qcurve" smooth="yes"/>
+      <point x="348" y="684"/>
+      <point x="264" y="677"/>
+      <point x="215" y="675" type="qcurve" smooth="yes"/>
+      <point x="166" y="672"/>
+      <point x="166" y="637" type="qcurve" smooth="yes"/>
+      <point x="166" y="602"/>
+      <point x="206" y="602" type="qcurve" smooth="yes"/>
+      <point x="227" y="602"/>
+      <point x="433" y="623" type="qcurve" smooth="yes"/>
+      <point x="446" y="625"/>
+      <point x="454" y="616"/>
+      <point x="455" y="604" type="qcurve" smooth="yes"/>
+      <point x="471" y="338"/>
+      <point x="521" y="201" type="qcurve" smooth="yes"/>
+      <point x="571" y="66"/>
+      <point x="667" y="-29" type="qcurve" smooth="yes"/>
+      <point x="765" y="-124"/>
+      <point x="797" y="-124" type="qcurve" smooth="yes"/>
+      <point x="811" y="-124"/>
+      <point x="833" y="-97"/>
+      <point x="833" y="-85" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-07-09 19:03:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

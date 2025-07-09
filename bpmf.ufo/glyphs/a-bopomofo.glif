@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a-bopomofo" format="2">
+  <advance width="1000" height="1000"/>
+  <note>
+uni311A
+</note>
+  <outline>
+    <contour>
+      <point x="461" y="380"/>
+      <point x="460" y="364"/>
+      <point x="460" y="357" type="qcurve" smooth="yes"/>
+      <point x="460" y="-117" type="line" smooth="yes"/>
+      <point x="460" y="-155"/>
+      <point x="499" y="-155" type="qcurve" smooth="yes"/>
+      <point x="520" y="-155"/>
+      <point x="537" y="-138"/>
+      <point x="537" y="-117" type="qcurve" smooth="yes"/>
+      <point x="537" y="350" type="line" smooth="yes"/>
+      <point x="537" y="379"/>
+      <point x="551" y="409"/>
+      <point x="572" y="426" type="qcurve" smooth="yes"/>
+      <point x="611" y="457"/>
+      <point x="696" y="528"/>
+      <point x="744" y="569" type="qcurve" smooth="yes"/>
+      <point x="839" y="652"/>
+      <point x="849" y="666" type="qcurve" smooth="yes"/>
+      <point x="861" y="682"/>
+      <point x="861" y="695" type="qcurve" smooth="yes"/>
+      <point x="861" y="709"/>
+      <point x="838" y="730"/>
+      <point x="827" y="730" type="qcurve" smooth="yes"/>
+      <point x="806" y="730"/>
+      <point x="769" y="694" type="qcurve" smooth="yes"/>
+      <point x="733" y="658"/>
+      <point x="499" y="460" type="qcurve"/>
+      <point x="398" y="551"/>
+      <point x="304" y="631" type="qcurve" smooth="yes"/>
+      <point x="257" y="671"/>
+      <point x="205" y="715"/>
+      <point x="198" y="719" type="qcurve" smooth="yes"/>
+      <point x="184" y="727"/>
+      <point x="172" y="727" type="qcurve" smooth="yes"/>
+      <point x="164" y="727"/>
+      <point x="146" y="713"/>
+      <point x="137" y="690"/>
+      <point x="145" y="663"/>
+      <point x="163" y="649" type="qcurve" smooth="yes"/>
+      <point x="242" y="585"/>
+      <point x="390" y="455"/>
+      <point x="462" y="389" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-07-09 19:03:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>
