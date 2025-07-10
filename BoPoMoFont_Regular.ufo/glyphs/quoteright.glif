@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="colon" format="2">
-  <advance width="244"/>
-  <unicode hex="003A"/>
+<glyph name="quoteright" format="2">
+  <advance width="270"/>
+  <unicode hex="2019"/>
   <outline>
-    <component base="period" yOffset="357" identifier="component0"/>
-    <component base="period" identifier="component1"/>
+    <component base="quotesinglbase" yOffset="612" identifier="component0"/>
   </outline>
   <lib>
     <dict>
@@ -17,13 +16,6 @@
           <key>public.truetype.useMyMetrics</key>
           <false/>
         </dict>
-        <key>component1</key>
-        <dict>
-          <key>public.truetype.roundOffsetToGrid</key>
-          <false/>
-          <key>public.truetype.useMyMetrics</key>
-          <false/>
-        </dict>
       </dict>
       <key>public.truetype.instructions</key>
       <dict>
@@ -32,7 +24,7 @@
 PUSHB[ ]	/* 2 values pushed */
 0 1
 PUSHW[ ]	/* 1 value pushed */
-357
+612
 PUSHB[ ]	/* 1 value pushed */
 53
 CALL[ ]	/* CallFunction */
@@ -40,7 +32,7 @@ CALL[ ]	/* CallFunction */
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>w244[l189+129l189+0l55+0l55+129|(+1.0+0.0+0.0+1.0+0+357)][l189+129l189+0l55+0l55+129|(+1.0+0.0+0.0+1.0+0+0)]</string>
+        <string>w270[o74-63o99-34q99-9l99+108l215+108l215-19o215-81o142-158q83-158l35-158l35-63l53-63|(+1.0+0.0+0.0+1.0+0+612)]</string>
       </dict>
       <key>public.truetype.overlap</key>
       <false/>

@@ -302,6 +302,29 @@
       <string>M.alt</string>
       <string>W.alt</string>
       <string>V.alt</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+      <string>bullet</string>
+      <string>asterisk</string>
+      <string>numbersign</string>
+      <string>semicolon.alt</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
+      <string>quotesinglbase</string>
+      <string>quotedblbase</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
+      <string>period.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
