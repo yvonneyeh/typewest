@@ -301,6 +301,7 @@
       <string>S.alt</string>
       <string>M.alt</string>
       <string>W.alt</string>
+      <string>V.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

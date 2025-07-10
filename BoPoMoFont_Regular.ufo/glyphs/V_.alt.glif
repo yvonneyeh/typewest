@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V.alt" format="2">
+  <advance width="622"/>
+  <outline>
+    <contour>
+      <point x="311" y="-7" type="curve" smooth="yes"/>
+      <point x="359" y="-7"/>
+      <point x="384" y="30"/>
+      <point x="398" y="75" type="curve" smooth="yes"/>
+      <point x="604" y="707" type="line"/>
+      <point x="493" y="707" type="line"/>
+      <point x="311" y="121" type="line"/>
+      <point x="129" y="707" type="line"/>
+      <point x="18" y="707" type="line"/>
+      <point x="224" y="75" type="line" smooth="yes"/>
+      <point x="238" y="30"/>
+      <point x="263" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1017l741+187l880+709l1004+709l805+0l681+0l509+536l337+0l214+0l13+709l139+709l281+191l447+709l572+709|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
