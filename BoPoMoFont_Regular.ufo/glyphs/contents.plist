@@ -28,6 +28,8 @@
     <string>L_.glif</string>
     <key>M</key>
     <string>M_.glif</string>
+    <key>M.alt</key>
+    <string>M_.alt.glif</string>
     <key>N</key>
     <string>N_.glif</string>
     <key>O</key>
@@ -52,6 +54,8 @@
     <string>V_.glif</string>
     <key>W</key>
     <string>W_.glif</string>
+    <key>W.alt</key>
+    <string>W_.alt.glif</string>
     <key>X</key>
     <string>X_.glif</string>
     <key>Y</key>
