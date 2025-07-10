@@ -42,6 +42,8 @@
     <string>R_.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>S.alt</key>
+    <string>S_.alt.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>U</key>
@@ -60,6 +62,8 @@
     <string>a.glif</string>
     <key>a-bopomofo</key>
     <string>a-bopomofo.glif</string>
+    <key>a.alt</key>
+    <string>a.alt.glif</string>
     <key>ai-bopomofo</key>
     <string>ai-bopomofo.glif</string>
     <key>an-bopomofo</key>

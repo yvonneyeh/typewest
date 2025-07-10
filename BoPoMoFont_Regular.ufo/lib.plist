@@ -297,6 +297,8 @@
       <string>Q.alt</string>
       <string>g.alt</string>
       <string>y.alt</string>
+      <string>a.alt</string>
+      <string>S.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
