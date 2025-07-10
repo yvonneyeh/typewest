@@ -295,6 +295,8 @@
       <string>comma.alt</string>
       <string>at</string>
       <string>Q.alt</string>
+      <string>g.alt</string>
+      <string>y.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

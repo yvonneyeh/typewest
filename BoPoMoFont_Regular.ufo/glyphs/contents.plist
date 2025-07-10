@@ -120,6 +120,8 @@
     <string>g.glif</string>
     <key>g-bopomofo</key>
     <string>g-bopomofo.glif</string>
+    <key>g.alt</key>
+    <string>g.alt.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>h-bopomofo</key>
@@ -212,6 +214,8 @@
     <string>x-bopomofo.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>y.alt</key>
+    <string>y.alt.glif</string>
     <key>z</key>
     <string>z.glif</string>
     <key>z-bopomofo</key>
