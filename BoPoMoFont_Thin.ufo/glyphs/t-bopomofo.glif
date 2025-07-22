@@ -1,13 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t-bopomofo" format="2">
-  <advance width="1000"/>
+  <advance width="1000" height="1000"/>
   <unicode hex="310A"/>
+  <note>
+uni310A
+</note>
   <outline>
+    <contour>
+      <point x="787" y="-22" type="qcurve"/>
+      <point x="851" y="36" type="line"/>
+      <point x="833" y="73"/>
+      <point x="677" y="276"/>
+      <point x="657" y="293" type="qcurve"/>
+      <point x="601" y="236" type="line"/>
+      <point x="618" y="214"/>
+      <point x="675" y="155"/>
+      <point x="685" y="139" type="qcurve"/>
+      <point x="597" y="129"/>
+      <point x="420" y="109"/>
+      <point x="331" y="98" type="qcurve" smooth="yes"/>
+      <point x="314" y="96"/>
+      <point x="300" y="116"/>
+      <point x="308" y="132" type="qcurve" smooth="yes"/>
+      <point x="352" y="215"/>
+      <point x="436" y="405"/>
+      <point x="474" y="502" type="qcurve"/>
+      <point x="896" y="502" type="line"/>
+      <point x="896" y="586" type="line"/>
+      <point x="505" y="586" type="line"/>
+      <point x="518" y="621"/>
+      <point x="577" y="771" type="qcurve"/>
+      <point x="482" y="796" type="line"/>
+      <point x="420" y="627"/>
+      <point x="405" y="586" type="qcurve"/>
+      <point x="90" y="586" type="line"/>
+      <point x="90" y="502" type="line"/>
+      <point x="375" y="502" type="line"/>
+      <point x="330" y="387"/>
+      <point x="240" y="192"/>
+      <point x="188" y="103" type="qcurve" smooth="yes"/>
+      <point x="161" y="57"/>
+      <point x="176" y="27" type="qcurve" smooth="yes"/>
+      <point x="184" y="10"/>
+      <point x="218" y="-9"/>
+      <point x="252" y="-2" type="qcurve" smooth="yes"/>
+      <point x="278" y="3"/>
+      <point x="386" y="19"/>
+      <point x="580" y="45"/>
+      <point x="733" y="65" type="qcurve"/>
+      <point x="752" y="35" type="line" smooth="yes"/>
+      <point x="766" y="10"/>
+      <point x="783" y="-17"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-22 05:06:58 +0000</string>
+      <string>2025-07-01 22:06:40 +0000</string>
     </dict>
   </lib>
 </glyph>

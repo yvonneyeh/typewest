@@ -240,11 +240,19 @@
       <string>y</string>
       <string>z</string>
       <string>space</string>
-      <string>e.alt</string>
-      <string>k.alt</string>
-      <string>s.alt</string>
-      <string>w.alt</string>
-      <string>k.alt2</string>
+      <string>M.ss01</string>
+      <string>Q.ss01</string>
+      <string>S.ss01</string>
+      <string>V.ss01</string>
+      <string>W.ss01</string>
+      <string>a.alt</string>
+      <string>e.ss01</string>
+      <string>g.ss01</string>
+      <string>k.ss01</string>
+      <string>s.ss01</string>
+      <string>w.ss01</string>
+      <string>y.ss01</string>
+      <string>k.ss02</string>
       <string>a-bopomofo</string>
       <string>ai-bopomofo</string>
       <string>an-bopomofo</string>
@@ -282,26 +290,6 @@
       <string>x-bopomofo</string>
       <string>z-bopomofo</string>
       <string>zh-bopomofo</string>
-      <string>hyphen</string>
-      <string>endash</string>
-      <string>emdash</string>
-      <string>period</string>
-      <string>comma</string>
-      <string>colon</string>
-      <string>semicolon</string>
-      <string>exclam</string>
-      <string>question</string>
-      <string>periodcentered</string>
-      <string>comma.alt</string>
-      <string>at</string>
-      <string>Q.alt</string>
-      <string>g.alt</string>
-      <string>y.alt</string>
-      <string>a.alt</string>
-      <string>S.alt</string>
-      <string>M.alt</string>
-      <string>W.alt</string>
-      <string>V.alt</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -312,19 +300,31 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
-      <string>bullet</string>
-      <string>asterisk</string>
-      <string>numbersign</string>
-      <string>semicolon.alt</string>
-      <string>quotedblleft</string>
-      <string>quotedblright</string>
+      <string>hyphen</string>
+      <string>endash</string>
+      <string>emdash</string>
       <string>quotesinglbase</string>
       <string>quotedblbase</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
       <string>quoteleft</string>
       <string>quoteright</string>
       <string>quotedbl</string>
       <string>quotesingle</string>
+      <string>period</string>
+      <string>comma</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>exclam</string>
+      <string>question</string>
+      <string>periodcentered</string>
+      <string>bullet</string>
+      <string>asterisk</string>
+      <string>numbersign</string>
       <string>period.alt</string>
+      <string>comma.alt</string>
+      <string>semicolon.alt</string>
+      <string>at</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

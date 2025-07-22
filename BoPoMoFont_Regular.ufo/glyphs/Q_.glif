@@ -53,11 +53,9 @@
       <key>public.truetype.instructions</key>
       <dict>
         <key>assembly</key>
-        <string>
-NPUSHB[ ]	/* 44 values pushed */
+        <string>NPUSHB[ ]	/* 44 values pushed */
 14 3 2 0 3 1 76 0 3 4 0 4 3 0 128 0 4 4 2 97 0 2 2 51 77 0 0 0 1 96 0 1 1 50 1 78 38 38 42 33 38 5 9 27
-CALL[ ]	/* CallFunction */
-</string>
+CALL[ ]	/* CallFunction */</string>
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>

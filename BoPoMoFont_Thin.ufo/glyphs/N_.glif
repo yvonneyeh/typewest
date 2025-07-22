@@ -1,13 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="600"/>
+  <advance width="765"/>
   <unicode hex="004E"/>
   <outline>
+    <contour>
+      <point x="680" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="205" y="537" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="709" type="line"/>
+      <point x="238" y="709" type="line"/>
+      <point x="560" y="206" type="line"/>
+      <point x="560" y="709" type="line"/>
+      <point x="680" y="709" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-22 05:06:58 +0000</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w765l680+0l555+0l205+537l205+0l85+0l85+709l238+709l560+206l560+709l680+709|</string>
+      </dict>
     </dict>
   </lib>
 </glyph>
