@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="t" format="2">
+<glyph name="barlesst" format="2">
   <advance width="342"/>
-  <unicode hex="0074"/>
   <outline>
     <contour>
       <point x="261" y="0" type="curve" smooth="yes"/>
@@ -16,18 +15,6 @@
       <point x="105" y="146" type="line" smooth="yes"/>
       <point x="105" y="56"/>
       <point x="169" y="0"/>
-    </contour>
-    <contour>
-      <point x="217" y="316" type="move"/>
-      <point x="283" y="316" type="line"/>
-      <point x="283" y="420" type="line"/>
-      <point x="217" y="420" type="line"/>
-    </contour>
-    <contour>
-      <point x="105" y="420" type="move"/>
-      <point x="29" y="420" type="line"/>
-      <point x="29" y="316" type="line"/>
-      <point x="105" y="316" type="line"/>
     </contour>
   </outline>
 </glyph>

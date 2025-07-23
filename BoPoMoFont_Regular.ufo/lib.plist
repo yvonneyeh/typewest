@@ -196,10 +196,10 @@
       <string>f.ss01</string>
       <string>p.ss01</string>
       <string>q.ss01</string>
-      <string>f_f.liga</string>
-      <string>f_f_l.liga</string>
-      <string>b.copy_1</string>
-      <string>d.copy_1</string>
+      <string>barlessf</string>
+      <string>barlesst</string>
+      <string>dotlessi</string>
+      <string>dotlessj</string>
       <string>acute</string>
       <string>cedilla</string>
       <string>dieresis</string>
