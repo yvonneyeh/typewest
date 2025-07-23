@@ -170,6 +170,10 @@
     <string>f-bopomofo.glif</string>
     <key>f.ss01</key>
     <string>f.ss01.glif</string>
+    <key>f_f.liga</key>
+    <string>f_f.liga.glif</string>
+    <key>f_f_l.liga</key>
+    <string>f_f_l.liga.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>four</key>
