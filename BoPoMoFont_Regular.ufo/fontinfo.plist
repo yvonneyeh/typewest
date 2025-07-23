@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>700</integer>
+    <integer>650</integer>
     <key>capHeight</key>
     <integer>650</integer>
     <key>descender</key>
-    <integer>-200</integer>
+    <integer>-225</integer>
     <key>familyName</key>
     <string>BoPoMoFont</string>
     <key>guidelines</key>
@@ -333,6 +333,6 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>
-    <integer>500</integer>
+    <integer>425</integer>
   </dict>
 </plist>
