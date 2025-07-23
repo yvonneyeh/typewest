@@ -18,17 +18,4 @@
       <point x="85" y="709" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-30 22:13:16 +0000</string>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>w744l659+0l538+0l538+303l205+303l205+0l85+0l85+709l205+709l205+416l538+416l538+709l659+709|</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

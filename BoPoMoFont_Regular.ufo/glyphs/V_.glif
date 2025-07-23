@@ -5,23 +5,12 @@
   <outline>
     <contour>
       <point x="338" y="157" type="line"/>
-      <point x="537" y="709" type="line"/>
-      <point x="664" y="709" type="line"/>
-      <point x="396" y="0" type="line"/>
-      <point x="274" y="0" type="line"/>
-      <point x="10" y="709" type="line"/>
       <point x="140" y="709" type="line"/>
+      <point x="10" y="709" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="664" y="709" type="line"/>
+      <point x="537" y="709" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>w674l338+157l537+709l664+709l396+0l274+0l10+709l140+709|</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

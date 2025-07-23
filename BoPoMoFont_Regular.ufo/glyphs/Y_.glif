@@ -5,25 +5,14 @@
   <outline>
     <contour>
       <point x="258" y="300" type="line"/>
-      <point x="10" y="709" type="line"/>
-      <point x="152" y="709" type="line"/>
-      <point x="322" y="412" type="line"/>
-      <point x="493" y="709" type="line"/>
-      <point x="628" y="709" type="line"/>
-      <point x="378" y="300" type="line"/>
-      <point x="378" y="0" type="line"/>
       <point x="258" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="378" y="300" type="line"/>
+      <point x="628" y="709" type="line"/>
+      <point x="493" y="709" type="line"/>
+      <point x="322" y="412" type="line"/>
+      <point x="152" y="709" type="line"/>
+      <point x="10" y="709" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>w638l258+300l10+709l152+709l322+412l493+709l628+709l378+300l378+0l258+0|</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

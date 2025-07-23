@@ -6,37 +6,30 @@
     <contour>
       <point x="85" y="0" type="line"/>
       <point x="335" y="0" type="line" smooth="yes"/>
-      <point x="485" y="0"/>
-      <point x="681" y="188"/>
-      <point x="681" y="353" type="qcurve" smooth="yes"/>
-      <point x="681" y="519"/>
-      <point x="486" y="709"/>
-      <point x="336" y="709" type="qcurve" smooth="yes"/>
+      <point x="435" y="0"/>
+      <point x="518" y="31"/>
+      <point x="583" y="94" type="curve" smooth="yes"/>
+      <point x="648" y="157"/>
+      <point x="681" y="243"/>
+      <point x="681" y="353" type="curve" smooth="yes"/>
+      <point x="681" y="464"/>
+      <point x="649" y="551"/>
+      <point x="584" y="614" type="curve" smooth="yes"/>
+      <point x="519" y="677"/>
+      <point x="436" y="709"/>
+      <point x="336" y="709" type="curve" smooth="yes"/>
       <point x="85" y="709" type="line"/>
     </contour>
     <contour>
       <point x="205" y="110" type="line"/>
       <point x="205" y="599" type="line"/>
       <point x="332" y="599" type="line" smooth="yes"/>
-      <point x="430" y="599"/>
-      <point x="556" y="472"/>
-      <point x="556" y="353" type="qcurve" smooth="yes"/>
-      <point x="556" y="235"/>
-      <point x="429" y="110"/>
-      <point x="331" y="110" type="qcurve" smooth="yes"/>
+      <point x="463" y="599"/>
+      <point x="556" y="512"/>
+      <point x="556" y="353" type="curve" smooth="yes"/>
+      <point x="556" y="195"/>
+      <point x="462" y="110"/>
+      <point x="331" y="110" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-30 22:12:55 +0000</string>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>3cf8d4bd8f7024ea209912769e9281c640948b96b7c3ba0ad18a9de6458b798a7fed0cadedf291aa14f886644cd329bc3e76b89845b5460047b4e91f0c81e1b1</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

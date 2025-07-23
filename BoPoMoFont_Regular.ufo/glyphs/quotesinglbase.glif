@@ -4,33 +4,18 @@
   <unicode hex="201A"/>
   <outline>
     <contour>
-      <point x="74" y="-63"/>
-      <point x="99" y="-34"/>
-      <point x="99" y="-9" type="qcurve"/>
-      <point x="99" y="108" type="line"/>
-      <point x="215" y="108" type="line"/>
-      <point x="215" y="-19" type="line"/>
-      <point x="215" y="-81"/>
-      <point x="142" y="-158"/>
-      <point x="83" y="-158" type="qcurve"/>
-      <point x="35" y="-158" type="line"/>
+      <point x="99" y="-9" type="line" smooth="yes"/>
+      <point x="99" y="-42"/>
+      <point x="81" y="-63"/>
+      <point x="53" y="-63" type="curve" smooth="yes"/>
       <point x="35" y="-63" type="line"/>
-      <point x="53" y="-63" type="line"/>
+      <point x="35" y="-158" type="line"/>
+      <point x="83" y="-158" type="line" smooth="yes"/>
+      <point x="162" y="-158"/>
+      <point x="215" y="-102"/>
+      <point x="215" y="-19" type="curve" smooth="yes"/>
+      <point x="215" y="108" type="line"/>
+      <point x="99" y="108" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>assembly</key>
-        <string>NPUSHB[ ]	/* 34 values pushed */
-0 0 2 0 133 3 1 2 1 1 2 89 3 1 2 2 1 98 0 1 2 1 82 0 0 0 11 0 10 35 19 4 9 24
-CALL[ ]	/* CallFunction */</string>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>w270o74-63o99-34q99-9l99+108l215+108l215-19o215-81o142-158q83-158l35-158l35-63l53-63|</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
