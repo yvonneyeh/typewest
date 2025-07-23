@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.alt" format="2">
+  <advance width="950"/>
+  <outline>
+    <contour>
+      <point x="865" y="0" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="746" y="522" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="202" y="520" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="709" type="line"/>
+      <point x="245" y="709" type="line"/>
+      <point x="475" y="168" type="line"/>
+      <point x="702" y="709" type="line"/>
+      <point x="865" y="709" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w950l865+0l746+0l746+522l525+0l421+0l202+520l202+0l85+0l85+709l245+709l475+168l702+709l865+709|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="486"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="quotedblbase" yOffset="622" identifier="component0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>component0</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <false/>
+        </dict>
+      </dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+PUSHB[ ]	/* 2 values pushed */
+0 2
+PUSHW[ ]	/* 1 value pushed */
+622
+PUSHB[ ]	/* 1 value pushed */
+53
+CALL[ ]	/* CallFunction */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>44343f818a163f5af781e1ccb9c65802be9590417f3576e7601082e1cd0265cec3aa75e7590b9667c1c35d11342f239b38d7cbfbf64cc1ab60fcf1fc8b82b741</string>
+      </dict>
+      <key>public.truetype.overlap</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

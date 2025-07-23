@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="464"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="85" y="401" type="line"/>
+      <point x="163" y="507" type="line"/>
+      <point x="38" y="549" type="line"/>
+      <point x="65" y="630" type="line"/>
+      <point x="189" y="588" type="line"/>
+      <point x="189" y="720" type="line"/>
+      <point x="275" y="720" type="line"/>
+      <point x="275" y="588" type="line"/>
+      <point x="399" y="630" type="line"/>
+      <point x="426" y="549" type="line"/>
+      <point x="301" y="507" type="line"/>
+      <point x="379" y="401" type="line"/>
+      <point x="310" y="351" type="line"/>
+      <point x="232" y="458" type="line"/>
+      <point x="154" y="351" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+NPUSHB[ ]	/* 25 values pushed */
+14 13 12 11 10 9 8 7 4 3 2 1 12 0 73 0 0 0 47 0 78 21 1 9 23
+CALL[ ]	/* CallFunction */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w464l85+401l163+507l38+549l65+630l189+588l189+720l275+720l275+588l399+630l426+549l301+507l379+401l310+351l232+458l154+351|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

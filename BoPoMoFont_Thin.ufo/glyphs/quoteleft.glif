@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="270"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="176" y="626"/>
+      <point x="151" y="597"/>
+      <point x="151" y="572" type="qcurve"/>
+      <point x="151" y="455" type="line"/>
+      <point x="35" y="455" type="line"/>
+      <point x="35" y="582" type="line"/>
+      <point x="35" y="644"/>
+      <point x="109" y="721"/>
+      <point x="168" y="721" type="qcurve"/>
+      <point x="215" y="721" type="line"/>
+      <point x="215" y="626" type="line"/>
+      <point x="197" y="626" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+NPUSHB[ ]	/* 28 values pushed */
+0 0 2 0 134 3 1 2 2 1 97 0 1 1 47 2 78 0 0 0 11 0 10 35 19 4 9 24
+CALL[ ]	/* CallFunction */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w270o176+626o151+597q151+572l151+455l35+455l35+582o35+644o109+721q168+721l215+721l215+626l197+626|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
