@@ -1,26 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="555"/>
+  <advance width="1204"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="530" y="0" type="line"/>
-      <point x="85" y="0" type="line"/>
-      <point x="85" y="709" type="line"/>
-      <point x="205" y="709" type="line"/>
-      <point x="205" y="114" type="line"/>
-      <point x="530" y="114" type="line"/>
+      <point x="906" y="54" type="line"/>
+      <point x="522" y="54" type="line"/>
+      <point x="522" y="648" type="line"/>
+      <point x="466" y="648" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="906" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>w555l530+0l85+0l85+709l205+709l205+114l530+114|</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

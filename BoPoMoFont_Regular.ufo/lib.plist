@@ -2,6 +2,65 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+    <false/>
+    <key>com.schriftgestaltung.fontMaster.customParameters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>subscriptXOffset</string>
+        <key>value</key>
+        <integer>0</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>subscriptXSize</string>
+        <key>value</key>
+        <integer>650</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>subscriptYOffset</string>
+        <key>value</key>
+        <integer>75</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>subscriptYSize</string>
+        <key>value</key>
+        <integer>600</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>superscriptXOffset</string>
+        <key>value</key>
+        <integer>0</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>superscriptXSize</string>
+        <key>value</key>
+        <integer>650</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>superscriptYOffset</string>
+        <key>value</key>
+        <integer>350</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>superscriptYSize</string>
+        <key>value</key>
+        <integer>600</integer>
+      </dict>
+    </array>
+    <key>com.schriftgestaltung.formatVersion</key>
+    <integer>3</integer>
+    <key>com.schriftgestaltung.useGlyphOrder</key>
+    <true/>
+    <key>com.schriftgestaltung.useNiceNames</key>
+    <false/>
     <key>com.typemytype.robofont.binarySource</key>
     <string>/Users/Yvonne/Dropbox/Type West/BoPoMoFont Iterations/BoPoMoFont_Regular_2025-07-21.otf</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -196,10 +255,10 @@
       <string>f.ss01</string>
       <string>p.ss01</string>
       <string>q.ss01</string>
-      <string>barlessf</string>
-      <string>barlesst</string>
-      <string>dotlessi</string>
-      <string>dotlessj</string>
+      <string>f_f.liga</string>
+      <string>f_f_l.liga</string>
+      <string>b.copy_1</string>
+      <string>d.copy_1</string>
       <string>acute</string>
       <string>cedilla</string>
       <string>dieresis</string>
@@ -211,5 +270,88 @@
     <string>2025/07/22 01:52:46</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-50</integer>
+    <key>public.postscriptNames</key>
+    <dict>
+      <key>a-bopomofo</key>
+      <string>uni311A</string>
+      <key>ai-bopomofo</key>
+      <string>uni311E</string>
+      <key>an-bopomofo</key>
+      <string>uni3122</string>
+      <key>ang-bopomofo</key>
+      <string>uni3124</string>
+      <key>au-bopomofo</key>
+      <string>uni3120</string>
+      <key>b-bopomofo</key>
+      <string>uni3105</string>
+      <key>c-bopomofo</key>
+      <string>uni3118</string>
+      <key>ch-bopomofo</key>
+      <string>uni3114</string>
+      <key>d-bopomofo</key>
+      <string>uni3109</string>
+      <key>e-bopomofo</key>
+      <string>uni311C</string>
+      <key>eh-bopomofo</key>
+      <string>uni311D</string>
+      <key>ei-bopomofo</key>
+      <string>uni311F</string>
+      <key>en-bopomofo</key>
+      <string>uni3123</string>
+      <key>eng-bopomofo</key>
+      <string>uni3125</string>
+      <key>er-bopomofo</key>
+      <string>uni3126</string>
+      <key>euro</key>
+      <string>Euro</string>
+      <key>f-bopomofo</key>
+      <string>uni3108</string>
+      <key>g-bopomofo</key>
+      <string>uni310D</string>
+      <key>guillemetleft</key>
+      <string>guillemotleft</string>
+      <key>guillemetright</key>
+      <string>guillemotright</string>
+      <key>h-bopomofo</key>
+      <string>uni310F</string>
+      <key>i-bopomofo</key>
+      <string>uni3127</string>
+      <key>iu-bopomofo</key>
+      <string>uni3129</string>
+      <key>j-bopomofo</key>
+      <string>uni3110</string>
+      <key>k-bopomofo</key>
+      <string>uni310E</string>
+      <key>l-bopomofo</key>
+      <string>uni310C</string>
+      <key>m-bopomofo</key>
+      <string>uni3107</string>
+      <key>n-bopomofo</key>
+      <string>uni310B</string>
+      <key>o-bopomofo</key>
+      <string>uni311B</string>
+      <key>ou-bopomofo</key>
+      <string>uni3121</string>
+      <key>p-bopomofo</key>
+      <string>uni3106</string>
+      <key>q-bopomofo</key>
+      <string>uni3111</string>
+      <key>r-bopomofo</key>
+      <string>uni3116</string>
+      <key>s-bopomofo</key>
+      <string>uni3119</string>
+      <key>sh-bopomofo</key>
+      <string>uni3115</string>
+      <key>t-bopomofo</key>
+      <string>uni310A</string>
+      <key>u-bopomofo</key>
+      <string>uni3128</string>
+      <key>x-bopomofo</key>
+      <string>uni3112</string>
+      <key>z-bopomofo</key>
+      <string>uni3117</string>
+      <key>zh-bopomofo</key>
+      <string>uni3113</string>
+    </dict>
   </dict>
 </plist>

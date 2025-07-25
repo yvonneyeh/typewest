@@ -1,32 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="F" format="2">
-  <advance width="557"/>
+  <advance width="1287"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="85" y="0" type="line"/>
-      <point x="205" y="0" type="line"/>
-      <point x="205" y="286" type="line"/>
-      <point x="493" y="286" type="line"/>
-      <point x="493" y="397" type="line"/>
-      <point x="205" y="397" type="line"/>
-      <point x="205" y="596" type="line"/>
-      <point x="526" y="596" type="line"/>
-      <point x="526" y="709" type="line"/>
-      <point x="85" y="709" type="line"/>
+      <point x="890" y="353" type="line"/>
+      <point x="521" y="353" type="line"/>
+      <point x="521" y="594" type="line"/>
+      <point x="905" y="594" type="line"/>
+      <point x="905" y="648" type="line"/>
+      <point x="465" y="648" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="300" type="line"/>
+      <point x="890" y="300" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-30 22:13:05 +0000</string>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>w557l205+0l85+0l85+709l526+709l526+596l205+596l205+397l493+397l493+286l205+286|</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

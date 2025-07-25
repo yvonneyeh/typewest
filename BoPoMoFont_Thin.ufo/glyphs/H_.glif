@@ -1,34 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="744"/>
+  <advance width="1565"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="85" y="0" type="line"/>
-      <point x="205" y="0" type="line"/>
-      <point x="205" y="303" type="line"/>
-      <point x="538" y="303" type="line"/>
-      <point x="538" y="0" type="line"/>
-      <point x="659" y="0" type="line"/>
-      <point x="659" y="709" type="line"/>
-      <point x="538" y="709" type="line"/>
-      <point x="538" y="416" type="line"/>
-      <point x="205" y="416" type="line"/>
-      <point x="205" y="709" type="line"/>
-      <point x="85" y="709" type="line"/>
+      <point x="574" y="648" type="line"/>
+      <point x="517" y="648" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="574" y="300" type="line"/>
+      <point x="991" y="300" type="line"/>
+      <point x="991" y="0" type="line"/>
+      <point x="1047" y="0" type="line"/>
+      <point x="1047" y="648" type="line"/>
+      <point x="991" y="648" type="line"/>
+      <point x="991" y="353" type="line"/>
+      <point x="574" y="353" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-30 22:13:16 +0000</string>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>w744l659+0l538+0l538+303l205+303l205+0l85+0l85+709l205+709l205+416l538+416l538+709l659+709|</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
