@@ -184,6 +184,8 @@
     <string>g-bopomofo.glif</string>
     <key>g.alt</key>
     <string>g.alt.glif</string>
+    <key>g_n.liga</key>
+    <string>g_n.liga.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>grave</key>

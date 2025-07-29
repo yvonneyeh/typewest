@@ -70,6 +70,7 @@
       <string>p</string>
       <string>q</string>
       <string>B</string>
+      <string>J</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3418</string>
@@ -79,6 +80,8 @@
     <string>m01</string>
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
+    <key>com.schriftgestaltung.master.name</key>
+    <string>Light</string>
     <key>com.schriftgestaltung.useGlyphOrder</key>
     <true/>
     <key>com.schriftgestaltung.useNiceNames</key>
@@ -96,7 +99,7 @@
     <key>com.typemytype.robofont.compileSettings.layerName</key>
     <string>public.default</string>
     <key>com.typemytype.robofont.compileSettings.path</key>
-    <string>/Users/Yvonne/Dropbox/Type West/Glyphs Trial/BoPoMoFont_Bold_2025-07-21.otf</string>
+    <string>/Users/Yvonne/Dropbox/Type West/BoPoMoFont Iterations/BoPoMoFont_Light_2025-07-23.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>

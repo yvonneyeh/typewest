@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven" format="2">
-  <advance width="1096"/>
+  <advance width="525"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="795" y="700" type="line"/>
-      <point x="314" y="700" type="line"/>
-      <point x="314" y="598" type="line"/>
-      <point x="664" y="598" type="line"/>
-      <point x="365" y="0" type="line"/>
-      <point x="492" y="0" type="line"/>
-      <point x="795" y="615" type="line"/>
+      <point x="503" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="598" type="line"/>
+      <point x="372" y="598" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="503" y="615" type="line"/>
     </contour>
   </outline>
 </glyph>
