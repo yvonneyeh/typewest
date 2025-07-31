@@ -1,40 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="h" format="2">
-  <advance width="584"/>
+  <advance width="551"/>
   <unicode hex="0068"/>
   <outline>
     <contour>
-      <point x="62" y="0" type="line"/>
-      <point x="218" y="0" type="line"/>
-      <point x="218" y="156" type="line" smooth="yes"/>
-      <point x="218" y="202"/>
-      <point x="251" y="235"/>
-      <point x="295" y="235" type="curve" smooth="yes"/>
-      <point x="342" y="235"/>
-      <point x="374" y="202"/>
-      <point x="374" y="156" type="curve" smooth="yes"/>
-      <point x="374" y="0" type="line"/>
-      <point x="520" y="0" type="line"/>
-      <point x="520" y="208" type="line" smooth="yes"/>
-      <point x="520" y="338"/>
-      <point x="432" y="426"/>
-      <point x="306" y="426" type="curve" smooth="yes"/>
-      <point x="254" y="426"/>
-      <point x="233" y="418"/>
-      <point x="204" y="400" type="curve"/>
-      <point x="204" y="728" type="line"/>
-      <point x="62" y="728" type="line"/>
+      <point x="217" y="678" type="line"/>
+      <point x="50" y="678" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="217" y="250" type="line" smooth="yes"/>
+      <point x="217" y="301"/>
+      <point x="243" y="322"/>
+      <point x="276" y="322" type="curve" smooth="yes"/>
+      <point x="312" y="322"/>
+      <point x="334" y="297"/>
+      <point x="334" y="251" type="curve" smooth="yes"/>
+      <point x="334" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="502" y="303" type="line" smooth="yes"/>
+      <point x="502" y="410"/>
+      <point x="432" y="478"/>
+      <point x="335" y="478" type="curve" smooth="yes"/>
+      <point x="283" y="478"/>
+      <point x="244" y="462"/>
+      <point x="217" y="429" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>b79ff194f92655e30223915571a308e7beca183c3d02cfdcfdc4738d89903ecab3be8fef2242f96a6e9a308c4e2412b7fbf7cf4780a856cd52c55b8953503bc8</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

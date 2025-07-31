@@ -2,6 +2,57 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.defcon.sortDescriptor</key>
+    <array>
+      <dict>
+        <key>allowPseudoUnicode</key>
+        <true/>
+        <key>type</key>
+        <string>alphabetical</string>
+      </dict>
+      <dict>
+        <key>allowPseudoUnicode</key>
+        <true/>
+        <key>type</key>
+        <string>category</string>
+      </dict>
+      <dict>
+        <key>allowPseudoUnicode</key>
+        <true/>
+        <key>type</key>
+        <string>unicode</string>
+      </dict>
+      <dict>
+        <key>allowPseudoUnicode</key>
+        <true/>
+        <key>type</key>
+        <string>script</string>
+      </dict>
+      <dict>
+        <key>allowPseudoUnicode</key>
+        <true/>
+        <key>type</key>
+        <string>suffix</string>
+      </dict>
+      <dict>
+        <key>allowPseudoUnicode</key>
+        <true/>
+        <key>type</key>
+        <string>decompositionBase</string>
+      </dict>
+    </array>
+    <key>com.schriftgestaltung.DisplayStrings</key>
+    <array>
+      <string>w</string>
+      <string>v</string>
+      <string>h</string>
+      <string>n</string>
+      <string>f</string>
+      <string>&amp;</string>
+      <string>j</string>
+    </array>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>3420</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.fontMaster.customParameters</key>
@@ -81,36 +132,6 @@
     <integer>1</integer>
     <key>public.glyphOrder</key>
     <array>
-      <string>.notdef</string>
-      <string>space</string>
-      <string>exclam</string>
-      <string>quotedbl</string>
-      <string>numbersign</string>
-      <string>dollar</string>
-      <string>percent</string>
-      <string>ampersand</string>
-      <string>quoteright</string>
-      <string>parenleft</string>
-      <string>parenright</string>
-      <string>asterisk</string>
-      <string>comma</string>
-      <string>hyphen</string>
-      <string>period</string>
-      <string>slash</string>
-      <string>zero</string>
-      <string>one</string>
-      <string>two</string>
-      <string>three</string>
-      <string>four</string>
-      <string>five</string>
-      <string>six</string>
-      <string>seven</string>
-      <string>eight</string>
-      <string>nine</string>
-      <string>colon</string>
-      <string>semicolon</string>
-      <string>question</string>
-      <string>at</string>
       <string>A</string>
       <string>B</string>
       <string>C</string>
@@ -137,11 +158,13 @@
       <string>X</string>
       <string>Y</string>
       <string>Z</string>
-      <string>bracketleft</string>
-      <string>backslash</string>
-      <string>bracketright</string>
-      <string>underscore</string>
-      <string>quoteleft</string>
+      <string>M.alt</string>
+      <string>Q.alt</string>
+      <string>S.alt</string>
+      <string>V.alt</string>
+      <string>W.alt</string>
+      <string>G.ss01</string>
+      <string>J.ss01</string>
       <string>a</string>
       <string>b</string>
       <string>c</string>
@@ -168,30 +191,7 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
-      <string>braceleft</string>
-      <string>braceright</string>
-      <string>exclamdown</string>
-      <string>cent</string>
-      <string>sterling</string>
-      <string>yen</string>
-      <string>quotesingle</string>
-      <string>quotedblleft</string>
-      <string>guilsinglleft</string>
-      <string>guilsinglright</string>
-      <string>endash</string>
-      <string>periodcentered</string>
-      <string>bullet</string>
-      <string>quotesinglbase</string>
-      <string>quotedblbase</string>
-      <string>quotedblright</string>
-      <string>ellipsis</string>
-      <string>questiondown</string>
-      <string>emdash</string>
-      <string>M.alt</string>
-      <string>Q.alt</string>
-      <string>S.alt</string>
-      <string>V.alt</string>
-      <string>W.alt</string>
+      <string>germandbls</string>
       <string>a.alt</string>
       <string>e.alt</string>
       <string>g.alt</string>
@@ -200,71 +200,128 @@
       <string>w.alt</string>
       <string>y.alt</string>
       <string>k.alt2</string>
-      <string>a-bopomofo</string>
-      <string>ai-bopomofo</string>
-      <string>an-bopomofo</string>
-      <string>ang-bopomofo</string>
-      <string>au-bopomofo</string>
-      <string>b-bopomofo</string>
-      <string>c-bopomofo</string>
-      <string>ch-bopomofo</string>
-      <string>d-bopomofo</string>
-      <string>e-bopomofo</string>
-      <string>eh-bopomofo</string>
-      <string>ei-bopomofo</string>
-      <string>en-bopomofo</string>
-      <string>eng-bopomofo</string>
-      <string>er-bopomofo</string>
-      <string>f-bopomofo</string>
-      <string>g-bopomofo</string>
-      <string>h-bopomofo</string>
-      <string>i-bopomofo</string>
-      <string>iu-bopomofo</string>
-      <string>j-bopomofo</string>
-      <string>k-bopomofo</string>
-      <string>l-bopomofo</string>
-      <string>m-bopomofo</string>
-      <string>n-bopomofo</string>
-      <string>o-bopomofo</string>
-      <string>ou-bopomofo</string>
-      <string>p-bopomofo</string>
-      <string>q-bopomofo</string>
-      <string>r-bopomofo</string>
-      <string>s-bopomofo</string>
-      <string>sh-bopomofo</string>
-      <string>t-bopomofo</string>
-      <string>u-bopomofo</string>
-      <string>x-bopomofo</string>
-      <string>z-bopomofo</string>
-      <string>zh-bopomofo</string>
-      <string>guillemetleft</string>
-      <string>guillemetright</string>
-      <string>period.alt</string>
-      <string>comma.alt</string>
-      <string>semicolon.alt</string>
-      <string>euro</string>
-      <string>plusminus</string>
-      <string>y.ss01</string>
-      <string>ampersand.ss01</string>
-      <string>x.ss01</string>
-      <string>s.ss01</string>
-      <string>germandbls</string>
-      <string>b.ss01</string>
-      <string>d.ss01</string>
-      <string>i.ss06</string>
-      <string>f.ss01</string>
-      <string>p.ss01</string>
-      <string>q.ss01</string>
       <string>f_f.liga</string>
       <string>f_f_l.liga</string>
       <string>g_n.liga</string>
-      <string>d.copy_1</string>
+      <string>b.ss01</string>
+      <string>c.ss01</string>
+      <string>d.ss01</string>
+      <string>f.ss01</string>
+      <string>p.ss01</string>
+      <string>q.ss01</string>
+      <string>s.ss01</string>
+      <string>x.ss01</string>
+      <string>y.ss01</string>
+      <string>i.ss06</string>
+      <string>b-bopomofo</string>
+      <string>p-bopomofo</string>
+      <string>m-bopomofo</string>
+      <string>f-bopomofo</string>
+      <string>d-bopomofo</string>
+      <string>t-bopomofo</string>
+      <string>n-bopomofo</string>
+      <string>l-bopomofo</string>
+      <string>g-bopomofo</string>
+      <string>k-bopomofo</string>
+      <string>h-bopomofo</string>
+      <string>j-bopomofo</string>
+      <string>q-bopomofo</string>
+      <string>x-bopomofo</string>
+      <string>zh-bopomofo</string>
+      <string>ch-bopomofo</string>
+      <string>sh-bopomofo</string>
+      <string>r-bopomofo</string>
+      <string>z-bopomofo</string>
+      <string>c-bopomofo</string>
+      <string>s-bopomofo</string>
+      <string>a-bopomofo</string>
+      <string>o-bopomofo</string>
+      <string>e-bopomofo</string>
+      <string>eh-bopomofo</string>
+      <string>ai-bopomofo</string>
+      <string>ei-bopomofo</string>
+      <string>au-bopomofo</string>
+      <string>ou-bopomofo</string>
+      <string>an-bopomofo</string>
+      <string>en-bopomofo</string>
+      <string>ang-bopomofo</string>
+      <string>eng-bopomofo</string>
+      <string>er-bopomofo</string>
+      <string>i-bopomofo</string>
+      <string>u-bopomofo</string>
+      <string>iu-bopomofo</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+      <string>underscore</string>
+      <string>hyphen</string>
+      <string>endash</string>
+      <string>emdash</string>
+      <string>parenleft</string>
+      <string>bracketleft</string>
+      <string>braceleft</string>
+      <string>quotesinglbase</string>
+      <string>quotedblbase</string>
+      <string>parenright</string>
+      <string>bracketright</string>
+      <string>braceright</string>
+      <string>guillemetleft</string>
+      <string>quoteleft</string>
+      <string>quotedblleft</string>
+      <string>guilsinglleft</string>
+      <string>guillemetright</string>
+      <string>quoteright</string>
+      <string>quotedblright</string>
+      <string>guilsinglright</string>
+      <string>exclam</string>
+      <string>quotedbl</string>
+      <string>numbersign</string>
+      <string>percent</string>
+      <string>ampersand</string>
+      <string>quotesingle</string>
+      <string>asterisk</string>
+      <string>comma</string>
+      <string>period</string>
+      <string>slash</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>question</string>
+      <string>at</string>
+      <string>backslash</string>
+      <string>exclamdown</string>
+      <string>periodcentered</string>
+      <string>questiondown</string>
+      <string>bullet</string>
+      <string>ellipsis</string>
+      <string>comma.alt</string>
+      <string>period.alt</string>
+      <string>semicolon.alt</string>
+      <string>ampersand.ss01</string>
+      <string>plus</string>
+      <string>plusminus</string>
+      <string>multiply</string>
+      <string>divide</string>
+      <string>minus</string>
+      <string>dollar</string>
+      <string>cent</string>
+      <string>sterling</string>
+      <string>yen</string>
+      <string>euro</string>
+      <string>grave</string>
+      <string>dieresis</string>
+      <string>macron</string>
       <string>acute</string>
       <string>cedilla</string>
-      <string>dieresis</string>
-      <string>grave</string>
-      <string>macron</string>
       <string>tilde</string>
+      <string>space</string>
+      <string>.notdef</string>
     </array>
     <key>public.openTypeHeadModified</key>
     <string>2025/07/22 01:52:46</string>

@@ -18,12 +18,16 @@
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>G.ss01</key>
+    <string>G_.ss01.glif</string>
     <key>H</key>
     <string>H_.glif</string>
     <key>I</key>
     <string>I_.glif</string>
     <key>J</key>
     <string>J_.glif</string>
+    <key>J.ss01</key>
+    <string>J_.ss01.glif</string>
     <key>K</key>
     <string>K_.glif</string>
     <key>L</key>
@@ -112,6 +116,8 @@
     <string>c.glif</string>
     <key>c-bopomofo</key>
     <string>c-bopomofo.glif</string>
+    <key>c.ss01</key>
+    <string>c.ss01.glif</string>
     <key>cedilla</key>
     <string>cedilla.glif</string>
     <key>cent</key>
@@ -132,6 +138,8 @@
     <string>d.ss01.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
+    <key>divide</key>
+    <string>divide.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>e</key>
@@ -234,6 +242,10 @@
     <string>m-bopomofo.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
+    <key>minus</key>
+    <string>minus.glif</string>
+    <key>multiply</key>
+    <string>multiply.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>n-bopomofo</key>
@@ -268,6 +280,8 @@
     <string>period.alt.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
+    <key>plus</key>
+    <string>plus.glif</string>
     <key>plusminus</key>
     <string>plusminus.glif</string>
     <key>q</key>

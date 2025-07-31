@@ -1,35 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w" format="2">
-  <advance width="718"/>
+  <advance width="824"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="298" y="416" type="line"/>
-      <point x="427" y="416" type="line"/>
-      <point x="512" y="188" type="line"/>
-      <point x="575" y="416" type="line"/>
-      <point x="706" y="416" type="line"/>
-      <point x="572" y="0" type="line"/>
-      <point x="453" y="0" type="line"/>
-      <point x="360" y="239" type="line"/>
-      <point x="269" y="0" type="line"/>
-      <point x="147" y="0" type="line"/>
-      <point x="12" y="416" type="line"/>
-      <point x="148" y="416" type="line"/>
-      <point x="213" y="188" type="line"/>
+      <point x="493" y="466" type="line"/>
+      <point x="331" y="466" type="line"/>
+      <point x="246" y="194" type="line"/>
+      <point x="164" y="466" type="line"/>
+      <point x="-15" y="466" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="411" y="249" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="839" y="466" type="line"/>
+      <point x="662" y="466" type="line"/>
+      <point x="580" y="193" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-23 20:30:58 +0000</string>
-      <key>public.truetype.instructions</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>id</key>
-        <string>w814l351+487l471+487l586+150l683+487l801+487l645+0l529+0l408+350l290+0l171+0l13+487l137+487l236+150|</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

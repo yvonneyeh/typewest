@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Y" format="2">
-  <advance width="1263"/>
+  <advance width="616"/>
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="919" y="648" type="line"/>
-      <point x="852" y="648" type="line"/>
-      <point x="633" y="331" type="line"/>
-      <point x="413" y="648" type="line"/>
-      <point x="345" y="648" type="line"/>
-      <point x="604" y="278" type="line"/>
-      <point x="604" y="0" type="line"/>
-      <point x="661" y="0" type="line"/>
-      <point x="661" y="278" type="line"/>
+      <point x="595" y="648" type="line"/>
+      <point x="528" y="648" type="line"/>
+      <point x="309" y="331" type="line"/>
+      <point x="89" y="648" type="line"/>
+      <point x="21" y="648" type="line"/>
+      <point x="280" y="278" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="337" y="278" type="line"/>
     </contour>
   </outline>
 </glyph>

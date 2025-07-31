@@ -67,13 +67,11 @@
     </array>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string>p</string>
-      <string>q</string>
       <string>B</string>
       <string>J</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3418</string>
+    <string>3420</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.fontMasterID</key>
@@ -165,10 +163,12 @@
       <string>d.ss01</string>
       <string>p.ss01</string>
       <string>q.ss01</string>
-      <string>b.ss01.copy_1</string>
-      <string>d.ss01.copy_1</string>
+      <string>c.ss01</string>
+      <string>C.ss01</string>
       <string>b.ss01.copy_2</string>
       <string>d.ss01.copy_2</string>
+      <string>tail</string>
+      <string>G.ss01</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
